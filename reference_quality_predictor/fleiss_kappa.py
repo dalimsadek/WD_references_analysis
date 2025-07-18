@@ -7,7 +7,7 @@ Created on May 15 2017
 
 import pandas as pd
 
-from reference_quality_predictor.metrics import computeFleissKappa
+from metrics import computeFleissKappa
 
 
 ###T1
@@ -30,11 +30,11 @@ def main():
         if sum(ratings) == 5:
             fleiss_ratings.append(ratings)
         else:
-            print ratings
+            print(ratings)
         ratings = []
 
     T1_fleiss = computeFleissKappa(fleiss_ratings)
-    print T1_fleiss
+    print(T1_fleiss)
 
     ###T2
     file_name = '~/Documents/PhD/author_all_new.csv'
@@ -54,11 +54,11 @@ def main():
         if sum(ratings) == 5:
             fleiss_ratings.append(ratings)
         else:
-            print ratings
+            print(ratings)
         ratings = []
 
     T2_fleiss = computeFleissKappa(fleiss_ratings)
-    print T2_fleiss
+    print(T2_fleiss)
 
     ###T3.A
     file_name = '~/Documents/PhD/publisher_all_new.csv'
@@ -80,11 +80,11 @@ def main():
         if sum(ratings) == 5:
             fleiss_ratings.append(ratings)
         else:
-            print ratings
+            print(ratings)
         ratings = []
 
     T3A_fleiss = computeFleissKappa(fleiss_ratings)
-    print T3A_fleiss
+    print(T3A_fleiss)
 
     ###T3.b
 
@@ -112,11 +112,11 @@ def main():
         if sum(ratings) == 5:
             fleiss_ratings.append(ratings)
         else:
-            print ratings
+            print(ratings)
         ratings = []
 
     T3B_fleiss = computeFleissKappa(fleiss_ratings)
-    print T3B_fleiss
+    print(T3B_fleiss)
 
 
 if __name__ == "__main__":

@@ -1,20 +1,21 @@
 import pandas as pd
-import ujson
+import  json
+
 import re
 import chardet
 
-from reference_quality_predictor.label_extractor import get_item_label
+from label_extractor import get_item_label
 
 
 def claim_maker(line):
     try:
         strc = eval(line)
-        print strc
+        print(strc)
         claimi = strc['claims']
         return claimi
     except ValueError as e:
-        print e
-        print line
+        raise e
+        print(line)
 
 
 authority_file = '~/Documents/PhD/WD_refs_results/authoritative_all_new.csv'

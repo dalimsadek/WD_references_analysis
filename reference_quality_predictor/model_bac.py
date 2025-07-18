@@ -227,17 +227,17 @@ class modelTrainer(object):
         auc_pr = average_precision_score(expected, predicted, average='weighted')
         mcc = matthews_corrcoef(expected, predicted)
 
-        print "Baseline precision:{0}; recall:{1}; f1:{2}; auc_pr:{3}; mcc:{4}".format(str(precision), str(recall),
-                                                                                       str(f1), str(auc_pr), str(mcc))
+        print("Baseline precision:{0}; recall:{1}; f1:{2}; auc_pr:{3}; mcc:{4}".format(str(precision), str(recall),
+                                                                                       str(f1), str(auc_pr), str(mcc)))
         file_name = 'baseline_results_' + str(self.prediction_column) + '.csv'
         with open(file_name, 'w') as f:
             f.write("Baseline precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
                 f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
 
     def svm_model(self):
-        print 'you chose SVM'
+        print('you chose SVM')
         data = dataset_preprocess(self.prediction_column, self.train_data, self.test_data)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_train = data[2]
@@ -259,8 +259,8 @@ class modelTrainer(object):
         auc_pr = average_precision_score(expected, predicted, average='weighted')
         mcc = matthews_corrcoef(expected, predicted)
 
-        print "SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
-            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc)
+        print("SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
+            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
         file_name = 'svm_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
@@ -268,9 +268,9 @@ class modelTrainer(object):
 
     ###RF cross validation
     def svm_model_cv(self):
-        print 'you chose SVM cross_validation'
+        print('you chose SVM cross_validation')
         data = dataset_preprocess(self.prediction_column, self.train_data, self.test_data, cv=True)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_test = data[1]
@@ -317,9 +317,9 @@ class modelTrainer(object):
 
         f1_new = f1_compute(true_positive_list, false_positive_list, false_negative_list)
 
-        print "SVM CV model precision:" + str(mean(precision_list)) + "; recall:" + str(
+        print("SVM CV model precision:" + str(mean(precision_list)) + "; recall:" + str(
             mean(recall_list)) + "; f1:" + str(mean(f1_list)) + "; auc_pr:" + str(mean(auc_pr_list)) + "; mcc:" + str(
-            mean(mcc_list)) + "; f1_new:" + str(f1_new)
+            mean(mcc_list)) + "; f1_new:" + str(f1_new))
         file_name = 'svm_cv_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("SVM cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
@@ -328,9 +328,9 @@ class modelTrainer(object):
 
     ###linear SVM
     def linear_svm(self):
-        print 'you chose linear SVM'
+        print('you chose linear SVM')
         data = dataset_preprocess(self.prediction_column, self.train_data, self.test_data)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_train = data[2]
@@ -352,17 +352,17 @@ class modelTrainer(object):
         auc_pr = average_precision_score(expected, predicted, average='weighted')
         mcc = matthews_corrcoef(expected, predicted)
 
-        print "Linear SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
-            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc)
+        print("Linear SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
+            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
         file_name = 'linear_svm_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("Linear SVM model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
                 f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
 
     def linear_svm_cv(self):
-        print 'you chose linear SVM cross_validation'
+        print('you chose linear SVM cross_validation')
         data = dataset_preprocess(self.prediction_column, self.train_data, cv=True)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_test = data[1]
@@ -411,9 +411,9 @@ class modelTrainer(object):
 
         f1_new = f1_compute(true_positive_list, false_positive_list, false_negative_list)
 
-        print "Linear SVM CV model precision:" + str(mean(precision_list)) + "; recall:" + str(
+        print("Linear SVM CV model precision:" + str(mean(precision_list)) + "; recall:" + str(
             mean(recall_list)) + "; f1:" + str(mean(f1_list)) + "; auc_pr:" + str(mean(auc_pr_list)) + "; mcc:" + str(
-            mean(mcc_list)) + "; f1_new:" + str(f1_new)
+            mean(mcc_list)) + "; f1_new:" + str(f1_new))
         file_name = 'linear_svm_cv_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("Linear SVM cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
@@ -423,9 +423,9 @@ class modelTrainer(object):
 
     ###RF
     def rf_model(self):
-        print 'you chose RF'
+        print('you chose RF')
         data = dataset_preprocess(self.prediction_column, self.train_data, self.test_data)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_train = data[2]
@@ -453,8 +453,8 @@ class modelTrainer(object):
         auc_pr = average_precision_score(expected, predicted, average='weighted')
         mcc = matthews_corrcoef(expected, predicted)
 
-        print "RF model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
-            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc)
+        print("RF model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
+            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
         file_name = 'rf_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("RF model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
@@ -464,9 +464,9 @@ class modelTrainer(object):
 
     ###RF cross validation
     def rf_model_cv(self):
-        print 'you chose RF cross_validation'
+        print('you chose RF cross_validation')
         data = dataset_preprocess(self.prediction_column, self.train_data, cv=True)
-        print 'data processed'
+        print('data processed')
 
         # X_train = data[0]
         # y_test = data[1]
@@ -521,9 +521,9 @@ class modelTrainer(object):
         feature_importances = pd.concat(feature_importances_list)
         feature_importances.to_csv('./rf_feature_importances_{}.csv'.format(label_type))
 
-        print "RF cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
+        print("RF cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
             mean(recall_list)) + "; f1:" + str(mean(f1_list)) + "; auc_pr:" + str(mean(auc_pr_list)) + "; mcc:" + str(
-            mean(mcc_list)) + "; f1_new:" + str(f1_new)
+            mean(mcc_list)) + "; f1_new:" + str(f1_new))
         file_name = 'rf_cv_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("RF cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
@@ -534,9 +534,9 @@ class modelTrainer(object):
 
     ###Naive Bayes
     def nb_model(self):
-        print 'you chose NB'
+        print('you chose NB')
         data = dataset_preprocess(self.prediction_column, self.train_data, self.test_data)
-        print 'data processed'
+        print('data processed')
 
         X_train = data[0]
         y_train = data[2]
@@ -557,8 +557,8 @@ class modelTrainer(object):
         auc_pr = average_precision_score(expected, predicted, average='weighted')
         mcc = matthews_corrcoef(expected, predicted)
 
-        print "NB model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
-            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc)
+        print("NB model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
+            f1) + "; auc_pr:" + str(auc_pr) + "; mcc:" + str(mcc))
         file_name = 'NB_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("NB model precision:" + str(precision) + "; recall:" + str(recall) + "; f1:" + str(
@@ -566,9 +566,9 @@ class modelTrainer(object):
 
     ###Naive Bayes cross validation
     def nb_model_cv(self):
-        print 'you chose NB cross_validation'
+        print('you chose NB cross_validation')
         data = dataset_preprocess(self.prediction_column, self.train_data, cv=True)
-        print 'data processed'
+        print('data processed')
 
         # X_train = data[0]
         # y_test = data[1]
@@ -619,9 +619,9 @@ class modelTrainer(object):
 
         f1_new = f1_compute(true_positive_list, false_positive_list, false_negative_list)
 
-        print "NB cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
+        print("NB cv model precision:" + str(mean(precision_list)) + "; recall:" + str(
             mean(recall_list)) + "; f1:" + str(mean(f1_list)) + "; auc_pr:" + str(mean(auc_pr_list)) + "; mcc:" + str(
-            mean(mcc_list)) + "; f1_new:" + str(f1_new)
+            mean(mcc_list)) + "; f1_new:" + str(f1_new))
         file_name = 'NB_cv_results_' + label_type + '.csv'
         with open(file_name, 'w') as f:
             f.write("NB cv model precision:" + str(mean(precision_list)) + "; recall:" + str(

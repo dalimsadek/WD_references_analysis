@@ -9,22 +9,24 @@ def dataset_preprocess(prediction_column, train_data, test_data, cv=False):
     # train_data = os.path.realpath('./results/train_set_references.csv')
     # train_data = '/Users/alessandro/Documents/WD_references_analysis/results/prediction_data.csv'
     # train_df = pd.read_csv(train_data, sep='\t', header=0)
-    train_df = pd.read_csv(train_data)
+    train_df = pd.read_csv(
+    train_data, sep='\t'   # Warn about skipped lines (optional)
+)
     # Create vectorizer for function to use
     # vectorizer = CountVectorizer(binary=True, ngram_range=(1, 1))
     item_vectorizer = TfidfVectorizer()
     object_vectorizer = TfidfVectorizer()
     vec = DictVectorizer()
-    item_vec = item_vectorizer.fit_transform(train_df['item_data'])
+    item_vec = item_vectorizer.fit_transform(train_df['item_text_clean'])
     item_vocab = item_vectorizer.vocabulary_.items()
-    object_vec = object_vectorizer.fit_transform(train_df['object_data'])
+    object_vec = object_vectorizer.fit_transform(train_df['object_text'])
     object_vocab = object_vectorizer.vocabulary_.items()
     vec_features = vec.fit_transform(train_df[['stat_property',
                                                'user_type',
-                                               'http_code']].to_dict(orient='records')).toarray()
+                                               'code_2']].to_dict(orient='records')).toarray()
     X_data = sp.sparse.hstack((item_vec,
                                object_vec, vec_features,
-                               train_df[['user_edits', 'user_ref_edits_p', 'url_use', 'domain_use']].values),
+                               train_df[['user_edits', 'user_ref_edits_pc', 'ref_count', 'domain_count']].values),
                               format='csr')
     print(X_data.shape)
     rev_dictionary = {v: k for k, v in item_vocab}
@@ -43,15 +45,15 @@ def dataset_preprocess(prediction_column, train_data, test_data, cv=False):
     else:
         # prediction_column = raw_input('Type authoritative or support_object:\n')
         if test_data:
-            test_df = pd.read_csv(test_data)
-            item_vec_test = item_vectorizer.transform(test_df['item_data'])
-            object_vec_test = object_vectorizer.transform(test_df['object_data'])
+            test_df = pd.read_csv(test_data, sep='\t')
+            item_vec_test = item_vectorizer.transform(test_df['item_text_clean'])
+            object_vec_test = object_vectorizer.transform(test_df['object_text'])
             vec_features_test = vec.transform(test_df[['stat_property',
                                                        'user_type',
-                                                       'http_code']].to_dict(orient='records')).toarray()
+                                                       'code_2']].to_dict(orient='records')).toarray()
             X_test = sp.sparse.hstack((item_vec_test,
                                        object_vec_test, vec_features_test,
-                                       test_df[['user_edits', 'user_ref_edits_p', 'url_use', 'domain_use']].values),
+                                       test_df[['user_edits', 'user_ref_edits_pc', 'ref_count', 'domain_count']].values),
                                       format='csr')
             print(X_test.shape)
 

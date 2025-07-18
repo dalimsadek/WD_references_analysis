@@ -1,0 +1,85 @@
+All Model Results
+==================
+
+Model: baseline
+Task: relevance
+Result: Please choose the attribute you want to evaluate (enter 0 for 'authoritativeness', 1 for 'relevance'):Baseline precision:0.8784188154775492; recall:0.8329411764705882; f1:0.8393798937106726; auc_pr:0.6366725089990765; mcc:0.6798655227504388
+
+Model: svm_model
+Task: relevance
+Result: SVM model precision:0.9522828582042757; recall:0.9503267973856209; f1:0.9492010114828173; auc_pr:0.8814452536001457; mcc:0.882065526086359
+
+Model: svm_model_cv
+Task: relevance
+Result: SVM CV model precision:0.950879804376; recall:0.948241313011; f1:0.946858694955; auc_pr:0.87697387089; mcc:0.877363216964; f1_new:0.907303370787
+
+Model: linear_svm
+Task: relevance
+Result: Linear SVM model precision:0.5633784717548347; recall:0.5856209150326798; f1:0.573103158961367; auc_pr:0.2955954949762999; mcc:-0.03540417514918578
+
+Model: linear_svm_cv
+Task: relevance
+Result: 
+
+Could not parse output.
+
+Model: rf_model
+Task: relevance
+Result: RF model precision:0.9591379515808193; recall:0.9581699346405229; f1:0.9574835765004984; auc_pr:0.8984077776916651; mcc:0.9004107794988009
+
+Model: rf_model_cv
+Task: relevance
+Result: RF cv model precision:0.957938239449; recall:0.956067551528; f1:0.955071592708; auc_pr:0.895346048997; mcc:0.895800436488; f1_new:0.922330097087
+
+Model: nb_model
+Task: relevance
+Result: NB model precision:0.9434532680226537; recall:0.9437908496732026; f1:0.9434673378042887; auc_pr:0.8534752475928947; mcc:0.8655186175544783
+
+Model: nb_model_cv
+Task: relevance
+Result: 
+
+Could not parse output.
+
+Model: baseline
+Task: authoritativeness
+Result: 
+
+Could not parse output.
+
+Model: svm_model
+Task: authoritativeness
+Result: SVM model precision:0.9137949939302027; recall:0.9111111111111111; f1:0.9093167342409048; auc_pr:0.8298670136672317; mcc:0.8075414250111399
+
+Model: svm_model_cv
+Task: authoritativeness
+Result: SVM CV model precision:0.905824969858; recall:0.900784313725; f1:0.898055298544; auc_pr:0.817722431179; mcc:0.787671398821; f1_new:0.851438637698
+
+Model: linear_svm
+Task: authoritativeness
+Result: Linear SVM model precision:0.838866525187426; recall:0.7359477124183007; f1:0.7372612032847327; auc_pr:0.577384592824245; mcc:0.5729162446249397
+
+Model: linear_svm_cv
+Task: authoritativeness
+Result: 
+
+Could not parse output.
+
+Model: rf_model
+Task: authoritativeness
+Result: RF model precision:0.9421187478202744; recall:0.9411764705882353; f1:0.9405277660511958; auc_pr:0.8853029178610146; mcc:0.8726280554821533
+
+Model: rf_model_cv
+Task: authoritativeness
+Result: RF cv model precision:0.929633730228; recall:0.926666666667; f1:0.92533191488; auc_pr:0.864731081535; mcc:0.843244277518; f1_new:0.893081761006
+
+Model: nb_model
+Task: authoritativeness
+Result: NB model precision:0.9004305752704121; recall:0.8967320261437909; f1:0.8975935774456208; auc_pr:0.7832225076083572; mcc:0.7829121412993265
+
+Model: nb_model_cv
+Task: authoritativeness
+Result: 
+
+Could not parse output.
+

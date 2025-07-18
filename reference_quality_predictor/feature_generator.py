@@ -40,7 +40,7 @@ def get_db_params():
 
 
 def print_query(query):
-    print(f'Now running this query: {query}')
+    print('Now running this query: ' + {query})
 
 
 def applyParallel(dfGrouped, func, user_grouped):
@@ -78,7 +78,7 @@ def get_user_data_sample(conn, items):
     df = pd.DataFrame()
     for chunk in pd.read_sql(query, con=conn, chunksize=100000):
         df = df.append(chunk)
-    print(f'User dataframe size: {df.shape[0]}')
+    print('User dataframe size:' + df.shape[0])
     df['time_stamp'] = pd.to_datetime(df['time_stamp'])
     return df
 
@@ -89,7 +89,7 @@ def get_user_data(conn):
     df = pd.DataFrame()
     for chunk in pd.read_sql(query, con=conn, chunksize=100000):
         df = df.append(chunk)
-    print(f'User dataframe size: {df.shape[0]}')
+    print('User dataframe size:' + df.shape[0])
     df['time_stamp'] = pd.to_datetime(df['time_stamp'])
     return df
 
@@ -122,7 +122,7 @@ def get_item_data(conn, items):
     df = pd.DataFrame()
     for chunk in pd.read_sql(query, con=conn, chunksize=100000):
         df = df.append(chunk)
-    print(f'Dataframe size: {df.shape[0]}')
+    print('User dataframe size:' + df.shape[0])
     return df
 
 
@@ -140,7 +140,7 @@ def get_property_data(conn, items):
     df = pd.DataFrame()
     for chunk in pd.read_sql(query, con=conn, chunksize=1000):
         df = df.append(chunk)
-    print(f'Dataframe size: {df.shape[0]}')
+    print('User dataframe size:' + df.shape[0])
     return df
 
 
