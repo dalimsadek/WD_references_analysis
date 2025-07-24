@@ -15,8 +15,27 @@ Reference: {shot_ref}
 Label: {shot_label}
 
 """
+    prompt_1 = f"""
+You are an expert assistant tasked with classifying the **type of author** for the following reference URL or citation:
 
-    return f"""
+Reference: {ref_value}
+
+Please determine the author type based on the reference and choose one of the following categories:
+- 'individual': if the content is authored by a named person.
+- 'organisation': if the content is authored by a company, institution, or group.
+- 'collective': if the article is signed by a collective group (e.g., editorial board).
+- 'nw' (not well-defined): if the URL or metadata is broken, unclear, or not informative.
+- 'ne' (not enough evidence): if there's not enough information to decide.
+- 'dn' (does not apply): if the reference is irrelevant or malformed.
+
+
+Your output should be **only one of these labels**: individual, organisation, collective, nw, ne, dn.
+Return your answer as a JSON object using this format:
+{{"label": "<one_of_the_labels_above>"}}
+
+Only output the JSON. Do not include any explanations.
+"""
+    prompt_2_onesl = f"""
 You are an expert assistant tasked with classifying the **type of author** for the following reference URL or citation.
 
 {shot_str if shots else ""}Now classify this new reference:
@@ -38,6 +57,8 @@ Return your answer as a JSON object using this format:
 
 Only output the JSON. Do not include any explanations.
 """
+    
+    return prompt_1
 
 def publisher_type_prompt(domain, examples=None):
     shots = ""

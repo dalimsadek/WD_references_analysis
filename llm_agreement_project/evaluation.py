@@ -178,9 +178,9 @@ def log_cohen_kappa(model: str, prompt_id: str, task: str, kappa: float, logfile
 
 # Entry point
 if __name__ == "__main__":
-    model = "llama3.2"   # set model folder
-    task = "publisher_verification"      # or "publisher", or "verification"
-    prompt_id = 'prompt_2_onesl'
+    model = "deepseek-r1:1.5b"   # set model folder
+    task = "publisher"      # or "publisher", or "verification"
+    prompt_id = 'prompt_1'
     df_llm, df_crowd, label_column = load_data(model,prompt_id, task)
 
     # Ensure LLM predictions use standardized column name
@@ -196,7 +196,7 @@ if __name__ == "__main__":
         label_column=label_column,
         kappa_thresh=0.4,
         top_k=10,
-        model = 'llama3.2',
+        model = model,
         prompt_id = prompt_id
     )   
     log_cohen_kappa(model=model, prompt_id=prompt_id, task=task, kappa=kappa)

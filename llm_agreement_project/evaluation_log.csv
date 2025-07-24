@@ -1,7 +1,9 @@
 timestamp,model,prompt_id,task,cohen_kappa
-2025-07-22 16:18:51,llama3.2,1,publisher_verification,0.1048
+2025-07-22 16:18:51,llama3.2,1,publisher_verification,0.1048 
 2025-07-22 16:19:11,llama3.2,1,author,0.1411
 2025-07-22 16:19:23,llama3.2,1,publisher,0.3493
 2025-07-22 17:52:59,llama3.2,prompt_2_onesl,author,0.1408
 2025-07-22 17:53:44,llama3.2,prompt_2_onesl,publisher,0.2514
 2025-07-22 17:54:45,llama3.2,prompt_2_onesl,publisher_verification,0.1412
+2025-07-23 16:33:44,llama3.2,prompt_3,author,0.0682
+2025-07-23 17:30:45,deepseek-r1:1.5b,prompt_1,publisher,0.1576
