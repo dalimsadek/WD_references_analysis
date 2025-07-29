@@ -58,7 +58,7 @@ Return your answer as a JSON object using this format:
 Only output the JSON. Do not include any explanations.
 """
     
-    return prompt_1
+    return prompt_2_onesl
 
 def publisher_type_prompt(domain, examples=None):
     shots = ""
@@ -120,3 +120,205 @@ Only output the JSON.
 STRICT INSTRUCTIONS :
 Do not include any explanations.
 """
+
+
+import requests
+from bs4 import BeautifulSoup
+
+def build_enriched_prompt(ref_url: str, task: str = "author_type") -> str:
+    """
+    Given a URL and task type, extracts page content + metadata and formats a task-specific prompt.
+    Tasks supported: 'author_type', 'publisher_type', 'publisher_verification'.
+    """
+
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; ChatGPT-PromptBuilder/1.0)"
+        }
+        resp = requests.get(ref_url, headers=headers, timeout=10)
+        resp.raise_for_status()
+    except Exception as e:
+        return f"The reference is unreachable or malformed.\n\nReference: {ref_url}\n\nReturn this: {{\"label\": \"nw\"}}"
+
+    soup = BeautifulSoup(resp.text, 'html.parser')
+
+    # Visible content: title + main paragraphs
+    visible_text = soup.title.string.strip() if soup.title and soup.title.string else ""
+    for p in soup.find_all("p"):
+        txt = p.get_text(strip=True)
+        if len(txt) > 100:
+            visible_text += "\n" + txt
+            break  # One good paragraph is usually enough
+
+    # Metadata extraction
+    metadata = {}
+    for tag in soup.find_all("meta"):
+        if tag.get("property", "").startswith("og:") or tag.get("name", "").startswith("twitter:"):
+            key = tag.get("property") or tag.get("name")
+            content = tag.get("content", "")
+            metadata[key] = content
+
+    # Add common metadata
+    for name in ["description", "title", "author"]:
+        tag = soup.find("meta", attrs={"name": name})
+        if tag:
+            metadata[name] = tag.get("content", "")
+
+    # Format metadata
+    meta_str = "\n".join([f"{k}: {v}" for k, v in metadata.items()])
+
+    # Prompt templates
+    instruction = ""
+    if task == "author_type":
+        instruction = """
+Your job is to determine the **type of author** for the given reference page.
+
+Choose one of the following:
+- 'individual': a named person.
+- 'organisation': a company, institution, or group.
+- 'collective': a group of unnamed individuals (e.g., editorial board).
+- 'nw': not well-defined (e.g., broken or empty).
+- 'ne': not enough evidence to decide.
+- 'dn': does not apply.
+
+Return a JSON with the format: {"label": "<your_label>"}
+Only output the JSON. No explanation.
+"""
+    elif task == "publisher_type":
+        instruction = """
+Classify the **type of publisher** for the domain of the page.
+
+Options:
+- 'news': news outlet (e.g., BBC)
+- 'company': corporate/brand website
+- 'sp_source': activist or special interest group
+- 'academia': university or scholarly
+- 'govt': government site
+- 'other': doesn't fit above
+- 'nw': not well-defined
+
+Return a JSON with the format: {"label": "<your_label>"}
+Only output the JSON. No explanation.
+"""
+    elif task == "publisher_verification":
+        instruction = """
+Classify the **verification status** of the publisher.
+
+Choose from:
+- 'yes': if the publisher is verified or reputable.
+- 'no': if the publisher is known to be unreliable.
+- 'vendor': if it's a commercial seller or online marketplace.
+- 'no_profit': if the site belongs to a nonprofit organization.
+- 'political': if the domain represents a political entity or campaign.
+- 'cultural': if it's a cultural or artistic institution.
+- 'trad_news': a traditional media outlet (e.g., established newspapers).
+- 'non_trad_news': blogs, YouTube channels, or alt-media sites.
+- 'academia_uni': university-level academic publisher.
+- 'academia_pub': peer-reviewed academic journal or press.
+- 'academia_other': other academic institution.
+- 'nw': not well-defined.
+- 'ne': not enough evidence to decide.
+- 'dn': does not apply.
+
+
+Return a JSON with the format: {"label": "<your_label>"}
+Only output the JSON. No explanation.
+"""
+
+    # Final prompt
+    prompt = f"""You are given the following reference link:
+{ref_url}
+
+🔍 Page Title and Visible Content:
+{visible_text.strip()}
+
+
+🧾 Extracted Metadata:
+{meta_str.strip()}
+
+
+{instruction.strip()}
+if you still not sure examine carefully this page : 
+    {ref_url}"""
+
+    return prompt
+
+def build_relevance_prompt_from_ref(ref_url: str, item_label: str, property_label: str, value_label: str) -> str:
+    """
+    Build a relevance evaluation prompt for an LLM to decide if a reference supports a Wikidata statement.
+    Returns a prompt formatted for JSON-only response: {"label": "0"} or {"label": "1"}
+    """
+
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; ChatGPT-RelevanceEvaluator/1.0)"
+        }
+        resp = requests.get(ref_url, headers=headers, timeout=10)
+        resp.raise_for_status()
+    except Exception as e:
+        return f"The reference is unreachable or malformed.\n\nReference: {ref_url}\n\nReturn this: {{\"label\": \"1\"}}"
+
+    soup = BeautifulSoup(resp.text, 'html.parser')
+
+    # Visible content: title + one good paragraph
+    visible_text = soup.title.string.strip() if soup.title and soup.title.string else ""
+    for p in soup.find_all("p"):
+        txt = p.get_text(strip=True)
+        if len(txt) > 100:
+            visible_text += "\n" + txt
+            break
+
+    # Metadata
+    metadata = {}
+    for tag in soup.find_all("meta"):
+        if tag.get("property", "").startswith("og:") or tag.get("name", "").startswith("twitter:"):
+            key = tag.get("property") or tag.get("name")
+            content = tag.get("content", "")
+            metadata[key] = content
+
+    for name in ["description", "title", "author"]:
+        tag = soup.find("meta", attrs={"name": name})
+        if tag:
+            metadata[name] = tag.get("content", "")
+
+    meta_str = "\n".join([f"{k}: {v}" for k, v in metadata.items()])
+
+    # Instruction
+    instruction = f"""
+You are given a Wikidata statement and a reference (web page). Your task is to evaluate whether the reference supports the statement.
+
+🧾 Wikidata Statement:
+- Item: {item_label}
+- Property: {property_label}
+- Value: {value_label}
+
+🌐 Reference:
+- Domain: {ref_url}
+
+🎯 Task:
+Determine if the reference **supports** the Wikidata statement.
+
+Return `"label": "0"` if the reference **is relevant** (supports the statement).  
+Return `"label": "1"` if the reference **is NOT relevant**.
+
+Return a JSON with the format: 
+```json
+{{"label": "<your_label>"}}
+Only output the JSON. No explanation. No other text.
+"""
+    prompt = f"""You are given the following reference link:
+{ref_url}
+
+🔍 Page Title and Visible Content:
+{visible_text.strip()}
+
+🧾 Extracted Metadata:
+{meta_str.strip()}
+
+{instruction.strip()}
+
+If you are unsure, you may examine the page again manually:
+{ref_url}
+"""
+
+    return prompt

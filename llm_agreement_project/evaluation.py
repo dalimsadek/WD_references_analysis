@@ -139,7 +139,7 @@ def save_results(
         model: Model name (e.g., llama3.2)
         prompt_id: Prompt variant number (as string or int)
     """
-    folder = f"results_{model}_{prompt_id}/{task}"
+    folder = f"results/results_{model}_{prompt_id}/{task}"
     os.makedirs(folder, exist_ok=True)
 
     merged_df.to_csv(os.path.join(folder, "merged.csv"), index=False)
@@ -178,9 +178,9 @@ def log_cohen_kappa(model: str, prompt_id: str, task: str, kappa: float, logfile
 
 # Entry point
 if __name__ == "__main__":
-    model = "deepseek-r1:1.5b"   # set model folder
-    task = "publisher"      # or "publisher", or "verification"
-    prompt_id = 'prompt_1'
+    model = "llama3.2"   # set model folder
+    task = "publisher_verification"      # or "publisher", or "verification"
+    prompt_id = 'prompt_5_metadata'
     df_llm, df_crowd, label_column = load_data(model,prompt_id, task)
 
     # Ensure LLM predictions use standardized column name

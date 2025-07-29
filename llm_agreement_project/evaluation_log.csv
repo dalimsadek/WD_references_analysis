@@ -7,3 +7,12 @@ timestamp,model,prompt_id,task,cohen_kappa
 2025-07-22 17:54:45,llama3.2,prompt_2_onesl,publisher_verification,0.1412
 2025-07-23 16:33:44,llama3.2,prompt_3,author,0.0682
 2025-07-23 17:30:45,deepseek-r1:1.5b,prompt_1,publisher,0.1576
+2025-07-24 15:33:27,llama3.2,prompt_4_metadata,author,0.2451
+2025-07-24 15:47:46,llama3.2,prompt_4_metadata,publisher,0.1579
+2025-07-24 15:49:54,llama3.2,prompt_4_metadata,publisher_verification,0.0133
+2025-07-24 16:26:50,mistral:latest,prompt_5_metadata,publisher_verification,0.2755
+2025-07-24 16:27:00,mistral:latest,prompt_5_metadata,publisher,0.4078
+2025-07-24 16:27:17,mistral:latest,prompt_5_metadata,author,0.357
+2025-07-25 12:09:18,llama3.2,prompt_5_metadata,author,0.2654
+2025-07-25 12:09:57,llama3.2,prompt_5_metadata,publisher,0.2554
+2025-07-25 12:10:50,llama3.2,prompt_5_metadata,publisher_verification,0.1818

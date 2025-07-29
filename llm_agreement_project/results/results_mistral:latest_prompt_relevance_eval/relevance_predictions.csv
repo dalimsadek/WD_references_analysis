@@ -1,0 +1,725 @@
+ref_value,item_label,property_label,value_label,item_id,stat_property,stat_value,label
+https://www.thetalentmanager.co.uk/people/1734/will-innes,Eric Ambler,occupation,film producer,Q508452,P106,Q3282637,1
+https://en.wikisource.org/wiki/Author:Henry_Lamont_Simpson,Henry Lamont Simpson,occupation,poet,Q21296496,P106,Q49757,0
+http://www.ted.com/profiles/494924,David Bismark,occupation,editor,Q23795339,P106,Q1607826,1
+http://www.ted.com/speakers/363,Thelma Golden,occupation,curator,Q7781067,P106,Q674426,0
+http://www.getty.edu/vow/ULANFullDisplay?find=&role=&nation=&subjectid=500014330,Karl James Anderson,occupation,illustrator,Q20028183,P106,Q644687,0
+http://www.ted.com/speakers/2709,Tom Uglow,occupation,designer,Q23783043,P106,Q5322166,1
+http://www.bizjournals.com/memphis/stories/2005/09/05/daily7.html,David Lichtenstein,occupation,philanthropist,Q5236586,P106,Q13472585,1
+http://www.ted.com/speakers/1847,Adrianne Haslet-Davis,occupation,dancer,Q23728757,P106,Q5716684,0
+http://m.timesofindia.com/india/Congress-releases-first-list-of-candidates-for-Lok-Sabha-polls/articleshow/31682561.cms,Nandan Nilekani,occupation,politician,Q1391255,P106,Q82955,0
+http://en.mediamass.net/people/jean-michel-jarre/deathhoax.html,Jean-Michel Jarre,occupation,musician,Q104326,P106,Q639669,0
+http://www.newyorker.com/contributors/mary-norris,Mary Norris,employer,The New Yorker,Q20979342,P108,Q217305,0
+http://www.bristol.ac.uk/efm/people/kenneth-g-binmore/,Kenneth Binmore,employer,University of Bristol,Q593714,P108,Q459506,0
+http://www.cdc.gov/niosh/npg/npgd0162.html,cyanogen chloride exposure,route of administration,skin absorption,Q21174113,P636,Q4669896,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750039.html,cyanogen chloride exposure,symptoms and signs,diaphoresis,Q21174113,P780,Q3026331,1
+http://www.bbc.co.uk/news/world-europe-34684973,Colectiv nightclub fire,number of deaths,+27,Q21282871,P1120,+27,0
+http://www.cdc.gov/niosh-rtecs/BP456D70.html,ammonium chloride,time-weighted average exposure limit,+3,Q188543,P2404,+3,1
+http://www.cdc.gov/niosh-rtecs/BP456D70.html,ammonium chloride,median lethal dose (LD50),+30,Q188543,P2240,+30,1
+http://www.procyclingstats.com/race.php?id=163647,2016 Volta a Catalunya,number of participants,+191,Q22920552,P1132,+191,0
+http://www.poetsgraves.co.uk/thomas_d.htm,Dylan Thomas,place of burial,"St Martin's Church, Laugharne",Q191023,P119,Q17742138,0
+http://specialcollections.le.ac.uk/cdm/compoundobject/collection/p16445coll4/id/218287/rec/5,William Wood,floruit,+1850-00-00T00:00:00Z,Q27050403,P1317,+1850-00-00T00:00:00Z,0
+http://library.la84.org/6oic/OfficialReports/2006/Results/AlpineSkiing.pdf#page=3,Erjon Tola,participant in,alpine skiing at the 2006 Winter Olympics – men's giant slalom,Q441622,P1344,Q1005801,0
+http://www.cdc.gov/niosh-rtecs/AS100590.html,acrolein,minimal lethal dose,+1500,Q342790,P2300,+1500,1
+http://www.cdc.gov/niosh-rtecs/AS100590.html,acrolein,median lethal dose (LD50),+28,Q342790,P2240,+28,1
+http://www.cdc.gov/niosh-rtecs/AS100590.html,acrolein,minimal lethal dose,+250,Q342790,P2300,+250,1
+http://www.cdc.gov/niosh-rtecs/AS100590.html,acrolein,time-weighted average exposure limit,+0.23,Q342790,P2404,+0.23,0
+http://www.cdc.gov/niosh/npg/npgd0646.html,soluble tungsten compound,time-weighted average exposure limit,+1,Q20964244,P2404,+1,1
+http://www.progarchives.com/album.asp?id=4908,The Songs of Distant Earth,genre,space music,Q1051791,P136,Q2342263,1
+"http://www.artistdirect.com/nad/store/artist/album/0,,10128655,00.html",Greg Garbowsky,genre,pop music,Q5605597,P136,Q37073,1
+http://www.liveleak.com/view?i=b64_1360346758,Moscow Clad in Snow,genre,short film,Q3324719,P136,Q24862,1
+http://www.metalstorm.net/awards/archive.php?year=2013,Nemesis,genre,power metal,Q1029464,P136,Q57143,1
+http://www.allmusic.com/artist/shadowfax-mn0000155608,Shadowfax,genre,chamber jazz,Q221358,P136,Q5069525,0
+http://www.rhapsody.com/artist/ustad-sultan-khan/album/ragas-kaushi-kannada-and-bhairvi,Sultan Khan,genre,Hindustani classical music,Q981797,P136,Q1770695,0
+http://flickfacts.com/actor/xavier-samuel,Bait 3D,genre,action film,Q970746,P136,Q188473,1
+http://www.nytimes.com/movies/movie/134566/Bye-Bye-Love/overview,Bye Bye Love,genre,romance film,Q1018481,P136,Q1054574,0
+http://www.music-bazaar.com/world-music/artist/21307/Charlie-Brown/,Charlie Brown Jr.,genre,funk metal,Q1066845,P136,Q667659,1
+http://www.filmovizija.com/movie/american-pie-the-reunion-2012-video_071d6b662.html,American Reunion,genre,comedy film,Q303040,P136,Q157443,0
+http://ffilms.org/atm-2012/,ATM,genre,thriller,Q1060517,P136,Q182015,0
+http://flymotorsich.com/en/pages/fleet,Yakovlev Yak-40,operator,Motor Sich Airlines,Q505663,P137,Q1840579,1
+http://planetarynames.wr.usgs.gov/Feature/2513,Hinks Dorsum,named after,Arthur Robert Hinks,Q3785714,P138,Q2065787,0
+http://museedelaresistanceenligne.org/media1772-Michel-Bernstein,Léon Bernstein,religion or worldview,Judaism,Q15638909,P140,Q9268,0
+http://www.blackfilm.com/20081218/features/aafcanews.shtml,Iron Man,nominated for,African-American Film Critics Association Awards,Q192724,P1411,Q23662462,0
+http://lawandorder.wikia.com/wiki/Censure,Censure,based on,Sol Wachtler,Q13458734,P144,Q7555592,1
+http://www.catholic-hierarchy.org/diocese/dhali.html,Archdiocese of Halifax–Yarmouth,official name,"{u'text': u'Archidioecesis Halifaxiensis-Yarmuthensis', u'language': u'la'}",Q1364577,P1448,"{u'text': u'Archidioecesis Halifaxiensis-Yarmuthensis', u'language': u'la'}",0
+http://www.catholic-hierarchy.org/diocese/dgati.html,Archdiocese of Gatineau,official name,"{u'text': u'Archdiocese of Gatineau-Hull', u'language': u'en'}",Q1364522,P1448,"{u'text': u'Archdiocese of Gatineau-Hull', u'language': u'en'}",0
+https://www.ncbi.nlm.nih.gov/pmc/journals/90/#microrev,Microbiology and Molecular Biology Reviews,title,"{u'text': u'Microbiological Reviews', u'language': u'en'}",Q6839270,P1476,"{u'text': u'Microbiological Reviews', u'language': u'en'}",0
+https://www.geni.com/people/Yukiko-Sugihara/6000000040237679213,Yukiko Sugihara,birth name,"{u'text': u'Yukiko Kikuchi', u'language': u'ja'}",Q15056839,P1477,"{u'text': u'Yukiko Kikuchi', u'language': u'ja'}",1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750030.html,hydrogen fluoride exposure,has effect,weight loss,Q21174755,P1542,Q718113,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750030.html,hydrogen fluoride exposure,has effect,nephrotoxicity,Q21174755,P1542,Q1468324,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750032.html,benzene exposure,has effect,somnolence,Q21167939,P1542,Q1077823,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750032.html,benzene exposure,has effect,dizziness,Q21167939,P1542,Q10916362,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,symptoms and signs,respiratory irritation,Q21504975,P780,Q21112283,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,symptoms and signs,respiratory irritation,Q21504975,P780,Q21112283,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,symptoms and signs,respiratory irritation,Q21504975,P780,Q21112283,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,symptoms and signs,respiratory irritation,Q21504975,P780,Q21112283,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,symptoms and signs,respiratory irritation,Q21504975,P780,Q21112283,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750006.html,lewisite exposure,has effect,toxic encephalopathy,Q21504975,P1542,Q18975539,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html,sodium cyanide exposure,has effect,nosebleed,Q21175308,P1542,Q202013,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html,sodium cyanide exposure,symptoms and signs,convulsion,Q21175308,P780,Q852376,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html,sodium cyanide exposure,symptoms and signs,shock,Q21175308,P780,Q178061,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html,sodium cyanide exposure,symptoms and signs,coma,Q21175308,P780,Q159557,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html,sodium cyanide exposure,possible treatment,fluid replacement,Q21175308,P924,Q4529664,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750014.html,arsine exposure,has effect,bone marrow suppression,Q21167853,P1542,Q864868,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750025.html,white phosphorus exposure,has effect,hematemesis,Q21175054,P1542,Q1570161,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750025.html,white phosphorus exposure,symptoms and signs,glowing vomit,Q21175054,P780,Q23012213,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750035.html,phosphine exposure,has effect,acute kidney injury,Q21175052,P1542,Q18555271,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750035.html,phosphine exposure,has effect,hypoglycemia,Q21175052,P1542,Q202758,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750035.html,phosphine exposure,symptoms and signs,convulsion,Q21175052,P780,Q852376,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750038.html,hydrogen cyanide exposure,has effect,brain damage,Q21174754,P1542,Q720026,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750038.html,hydrogen cyanide exposure,symptoms and signs,hypoventilation,Q21174754,P780,Q1641494,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750023.html,phosgene exposure,has effect,pulmonary edema,Q21175051,P1542,Q857667,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750023.html,phosgene exposure,symptoms and signs,dyspnea,Q21175051,P780,Q188008,0
+https://www.liferay.com/contact-us,Liferay Portal,headquarters location,Diamond Bar,Q254211,P159,Q768449,1
+http://www.leparcorama.com/2014/04/15/ratatouille-the-adventure-to-open-on-july-10th/,Remy's Ratatouille Adventure,date of official opening,+2014-07-10T00:00:00Z,Q7295489,P1619,+2014-07-10T00:00:00Z,0
+http://yba.llgc.org.uk/en/s-MORG-DAV-1785.html,Hector Morgan,Dictionary of Welsh Biography ID,s-MORG-DAV-1785,Q18730390,P1648,s-MORG-DAV-1785,0
+http://yba.llgc.org.uk/en/s-JONE-EDW-1741.html,Edward Jones,Dictionary of Welsh Biography ID,s-JONE-EDW-1741,Q20732950,P1648,s-JONE-EDW-1741,0
+http://yba.llgc.org.uk/en/s-JENK-JOH-1808.html,John Jenkins,Dictionary of Welsh Biography ID,s-JENK-JOH-1808,Q20733480,P1648,s-JENK-JOH-1808,0
+http://yba.llgc.org.uk/en/s-PARR-JOH-1775.html,John Parry,Dictionary of Welsh Biography ID,s-PARR-JOH-1775,Q20738111,P1648,s-PARR-JOH-1775,0
+http://yba.llgc.org.uk/en/s-JONE-FOU-1826.html,John Foulkes Jones,Dictionary of Welsh Biography ID,s-JONE-FOU-1826,Q20733421,P1648,s-JONE-FOU-1826,0
+http://yba.llgc.org.uk/en/s-DUNA-BWR-0505.html,Dunod Fawr,Dictionary of Welsh Biography ID,s-DUNA-BWR-0505,Q20732909,P1648,s-DUNA-BWR-0505,0
+http://yba.llgc.org.uk/en/s-HOWE-THO-1839.html,Thomas Howells,Dictionary of Welsh Biography ID,s-HOWE-THO-1839,Q20738162,P1648,s-HOWE-THO-1839,0
+http://yba.llgc.org.uk/en/s-PROB-WIL-1790.html,William Probert,Dictionary of Welsh Biography ID,s-PROB-WIL-1790,Q18762132,P1648,s-PROB-WIL-1790,0
+http://yba.llgc.org.uk/en/s-JONE-HUG-1873.html,Morgan Hugh Jones,Dictionary of Welsh Biography ID,s-JONE-HUG-1873,Q20733946,P1648,s-JONE-HUG-1873,0
+http://yba.llgc.org.uk/en/s2-OWEN-JOH-1864.html,John Owen,Dictionary of Welsh Biography ID,s2-OWEN-JOH-1864,Q20751813,P1648,s2-OWEN-JOH-1864,0
+http://yba.llgc.org.uk/en/s2-LLOY-CON-1878.html,John Conway Lloyd,Dictionary of Welsh Biography ID,s2-LLOY-CON-1878,Q20748856,P1648,s2-LLOY-CON-1878,0
+http://yba.llgc.org.uk/en/s-JONE-ROB-1806.html,Robert Jones,Dictionary of Welsh Biography ID,s-JONE-ROB-1806,Q20734342,P1648,s-JONE-ROB-1806,0
+http://yba.llgc.org.uk/en/s-DAVI-OWE-1840.html,Owen Davies,Dictionary of Welsh Biography ID,s-DAVI-OWE-1840,Q20734050,P1648,s-DAVI-OWE-1840,0
+http://yba.llgc.org.uk/en/s-GRUF-LEI-1400.html,Gruffudd Leiaf,Dictionary of Welsh Biography ID,s-GRUF-LEI-1400,Q20733108,P1648,s-GRUF-LEI-1400,0
+http://www.hmdb.ca/metabolites/HMDB00223,oxaloacetic acid,Human Metabolome Database ID,HMDB00223,Q408658,P2057,HMDB00223,0
+http://yba.llgc.org.uk/en/s-WILI-LLY-1534.html,Wiliam Llŷn,Dictionary of Welsh Biography ID,s-WILI-LLY-1534,Q18340549,P1648,s-WILI-LLY-1534,0
+http://yba.llgc.org.uk/en/s-REYN-JOH-1739.html,John Reynolds,Dictionary of Welsh Biography ID,s-REYN-JOH-1739,Q20733627,P1648,s-REYN-JOH-1739,0
+http://yba.llgc.org.uk/en/s2-EVAN-JAM-1894.html,John James Evans,Dictionary of Welsh Biography ID,s2-EVAN-JAM-1894,Q20733471,P1648,s2-EVAN-JAM-1894,0
+http://yba.llgc.org.uk/en/s8-EVAN-DAV-1879.html,David Evans,Dictionary of Welsh Biography ID,s8-EVAN-DAV-1879,Q20732816,P1648,s8-EVAN-DAV-1879,0
+http://yba.llgc.org.uk/en/s-MORG-RIC-1743.html,Richard Morgan,Dictionary of Welsh Biography ID,s-MORG-RIC-1743,Q20734296,P1648,s-MORG-RIC-1743,0
+http://yba.llgc.org.uk/en/s-THOM-MAR-1779.html,Margaret Thomas,Dictionary of Welsh Biography ID,s-THOM-MAR-1779,Q20748859,P1648,s-THOM-MAR-1779,0
+http://yba.llgc.org.uk/en/s-OWEN-OWE-1792.html,Owen Owens,Dictionary of Welsh Biography ID,s-OWEN-OWE-1792,Q20734105,P1648,s-OWEN-OWE-1792,0
+http://yba.llgc.org.uk/en/s-JONE-OWE-1857.html,John Owen Jones,Dictionary of Welsh Biography ID,s-JONE-OWE-1857,Q20733596,P1648,s-JONE-OWE-1857,0
+http://yba.llgc.org.uk/en/s-EVAN-JOH-1863.html,Thomas John Evans,Dictionary of Welsh Biography ID,s-EVAN-JOH-1863,Q20734474,P1648,s-EVAN-JOH-1863,0
+http://yba.llgc.org.uk/en/s-JONE-WIL-1718.html,William Jones,Dictionary of Welsh Biography ID,s-JONE-WIL-1718,Q20734658,P1648,s-JONE-WIL-1718,0
+http://yba.llgc.org.uk/en/s-HERB-HEN-1617.html,Henry Herbert,Dictionary of Welsh Biography ID,s-HERB-HEN-1617,Q20733147,P1648,s-HERB-HEN-1617,0
+http://yba.llgc.org.uk/en/s-DAFY-TRE-1528.html,Dafydd Trefor,Dictionary of Welsh Biography ID,s-DAFY-TRE-1528,Q20732761,P1648,s-DAFY-TRE-1528,0
+http://yba.llgc.org.uk/en/s-WILL-GRI-1824.html,Griffith Williams,Dictionary of Welsh Biography ID,s-WILL-GRI-1824,Q20804709,P1648,s-WILL-GRI-1824,0
+http://yba.llgc.org.uk/en/s-DAVI-MOR-1780.html,Morris Davies,Dictionary of Welsh Biography ID,s-DAVI-MOR-1780,Q20733967,P1648,s-DAVI-MOR-1780,0
+http://yba.llgc.org.uk/en/s1-PARR-MOR-1661.html,Morris Parry,Dictionary of Welsh Biography ID,s1-PARR-MOR-1661,Q20733979,P1648,s1-PARR-MOR-1661,0
+http://yba.llgc.org.uk/en/s-DAVI-JAM-1767.html,James Davies,Dictionary of Welsh Biography ID,s-DAVI-JAM-1767,Q20733308,P1648,s-DAVI-JAM-1767,0
+http://yba.llgc.org.uk/en/s1-MART-RIC-1843.html,Richard Martin,Dictionary of Welsh Biography ID,s1-MART-RIC-1843,Q20821191,P1648,s1-MART-RIC-1843,0
+https://www.thegazette.co.uk/London/issue/46371/page/8809,Murray Hudson,award received,George Cross,Q6939304,P166,Q1143510,0
+http://www.sufyanismail.com/awards.html,Sufyan Ismail,award received,Ethnic Business Awards,Q20876912,P166,Q5404153,0
+http://amturing.acm.org/award_winners/mccarthy_0239596.cfm,John McCarthy,award received,National Medal of Science,Q92739,P166,Q737051,1
+http://www.ted.com/participate/ted-prize/prize-winning-wishes,Jill Tarter,award received,TED Prize,Q445596,P166,Q23014208,0
+https://www.thegazette.co.uk/London/issue/57935/supplement/4191,Peter Norton,award received,George Cross,Q7176133,P166,Q1143510,1
+https://collection.cooperhewitt.org/objects/18189327/,Sunlight and Shadow,inscription,"{u'text': u'[full signature]', u'language': u'en'}",Q18603681,P1684,"{u'text': u'[full signature]', u'language': u'en'}",1
+http://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx,1300,country,Gabon,Q25648870,P17,Q1000,1
+http://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx,122,country,Austria,Q25648812,P17,Q40,1
+http://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx,999,country,Antigua and Barbuda,Q3086706,P17,Q781,1
+http://www.philamuseum.org/collections/permanent/59602.html,Girl in Green,creator,Chaïm Soutine,Q20816830,P170,Q160141,0
+https://collections.artsmia.org/index.php?page=detail&id=392,Portrait of a Lady,creator,Allan Ramsay,Q20890718,P170,Q4730933,0
+http://americanart.si.edu/collections/search/artwork/?id=26050,Grayleaf Fivefinger (Potentilla glaucophylla),creator,Mary Vaux Walcott,Q20512041,P170,Q6780882,1
+http://www.metmuseum.org/collection/the-collection-online/search/438434,The Virgin Adoring the Host,creator,Jean-Auguste-Dominique Ingres,Q19905390,P170,Q23380,0
+http://www.metmuseum.org/collection/the-collection-online/search/11683,Mrs. Warren Rogers,creator,John Paradise,Q19924900,P170,Q18546613,0
+http://www.philamuseum.org/collections/permanent/44127.html,Sketch for Portrait of Dr. Jacob Mendez da Costa,creator,Thomas Eakins,Q20812837,P170,Q214905,0
+http://www.getty.edu/art/collection/objects/268843/edouard-manet-le-printemps-jeanne-demarsy-french-1881/,Spring,creator,Édouard Manet,Q18620351,P170,Q40599,0
+http://collections.lacma.org/node/201897,"The Temple of the Liberal Arts, with the City of Bern and Minerva",creator,Jacques Sablet,Q20880321,P170,Q6120859,0
+https://collections.artsmia.org/index.php?page=detail&id=119611,Diana as Goddess of the Hunt,creator,Cornelis van Haarlem,Q20891822,P170,Q442484,0
+http://www.metmuseum.org/collection/the-collection-online/search/21473,John St. Clair,creator,John Singleton Copley,Q19924007,P170,Q316016,0
+http://americanart.si.edu/collections/search/artwork/?id=20476,Sea-Land Scape with Rocks and Figures,creator,Abraham Rattner,Q20501868,P170,Q330528,0
+http://www.metmuseum.org/collection/the-collection-online/search/482238,Lion and Zookeeper,creator,Norman Rockwell,Q20198490,P170,Q271884,0
+http://americanart.si.edu/collections/search/artwork/?id=26233,Ptarmiganberry (Arctous alpina),creator,Mary Vaux Walcott,Q20514658,P170,Q6780882,0
+https://collections.artsmia.org/index.php?page=detail&id=582,"View of the Saône and the Château Pierre-Scize (Lyon, France)",creator,William Marlow,Q20890751,P170,Q3568811,0
+https://github.com/liqd/adhocracy/graphs/contributors,Adhocracy,developer,contributor,Q356641,P178,Q20204892,0
+http://www.philamuseum.org/collections/permanent/101941.html,Portrait of the Surgeon Gian Giacomo Bonamigo with His Son Giovanni Antonio,made from material,canvas,Q20809306,P186,Q4259259,0
+http://www.lutyenstrust.org.uk/portfolio-item/lutyens-on-the-market-2/,Marshcourt,made from material,plasterwork,Q17528546,P186,Q572879,1
+https://collections.artsmia.org/index.php?page=detail&id=1773,Cleopatra,made from material,canvas,Q20891121,P186,Q4259259,1
+http://www.philamuseum.org/collections/permanent/63857.html,Mrs. John Hart and Her Son,made from material,canvas,Q20813018,P186,Q4259259,0
+http://www.metmuseum.org/collection/the-collection-online/search/483907,The Nature of Inquisitive Persistence,made from material,oil paint,Q19921256,P186,Q296955,0
+http://www.metmuseum.org/collection/the-collection-online/search/17465,Rip Van Winkle,made from material,oil paint,Q19923835,P186,Q296955,0
+http://www.getty.edu/art/collection/objects/548/william-adolphe-bouguereau-a-young-girl-defending-herself-against-eros-french-about-1880/,A Young Girl Defending Herself against Eros,made from material,oil paint,Q11076793,P186,Q296955,0
+http://www.philamuseum.org/collections/permanent/45610.html,Giverny,made from material,oil paint,Q20813037,P186,Q296955,0
+http://iba-world.com/iba-official-cocktails/alexander/,Alexander,made from material,cognac,Q1816386,P186,Q284,0
+http://www.metmuseum.org/collection/the-collection-online/search/437922,The Pigeon House,made from material,oil paint,Q19913267,P186,Q296955,0
+http://www.philamuseum.org/collections/permanent/82732.html,Morning (Two Dead Stags and a Fox),made from material,canvas,Q20809248,P186,Q4259259,0
+http://iba-world.com/cocktails/pina-colada/,Piña Colada,made from material,white rum,Q745886,P186,Q26869768,0
+https://collections.artsmia.org/index.php?page=detail&id=1955,Madonna and Child,made from material,canvas,Q20891190,P186,Q4259259,0
+http://www.metmuseum.org/collection/the-collection-online/search/11140,Snap the Whip,made from material,canvas,Q18209719,P186,Q4259259,0
+http://iba-world.com/new-era-drinks/lemon-drop-martini/,Lemon Drop,made from material,lemon juice,Q22084462,P186,Q1375049,1
+https://collections.artsmia.org/index.php?page=detail&id=1852,The Village,made from material,canvas,Q20891157,P186,Q4259259,0
+http://feed.snapdo.com/?publisher=Minutes&dpid=network2&q=Nikolay_Khomyakov,Nikolai Khomyakov,place of birth,Moscow,Q525797,P19,Q649,1
+http://www.chem-station.com/en/?cat=33,Samuel J. Danishefsky,place of birth,Bayonne,Q724239,P19,Q812589,1
+http://www.edanhughes.com/biography.cfm?ArtistID=196,William Otto Emerson,place of birth,Union,Q18911818,P19,Q2372676,1
+http://www.sports-reference.com/olympics/athletes/pa/sven-erik-paulsen-1.html,Svein Erik Paulsen,place of birth,Trondheim,Q10709494,P19,Q25804,0
+http://www.sports-reference.com/olympics/athletes/ha/kimihiro-hamaya-1.html,Kimihiro Hamaya,place of birth,Nemuro,Q11558049,P19,Q502205,0
+http://www.thnk.org/people-of-thnk/person/alison-killing/,Alison Killing,place of birth,Newcastle upon Tyne,Q23769251,P19,Q1425428,0
+http://www.scottisharchitects.org.uk/architect_full.php?id=202027,Robert Jewell Withers,place of birth,Shepton Mallet,Q24068885,P19,Q1236661,1
+http://www.bvbinfo.com/player.asp?ID=15097,Cherif Younousse,place of birth,Doha,Q26213206,P19,Q3861,0
+http://www.sports-reference.com/olympics/athletes/fi/sylvia-filipsson-1.html,Sylvia Filipsson,place of birth,Katrineholm Municipality,Q7660912,P19,Q508140,1
+http://www.sports-reference.com/olympics/athletes/fi/sylvia-filipsson-1.html,Sylvia Filipsson,country of citizenship,Sweden,Q7660912,P27,Q34,0
+http://speedskatingstats.com/index.php?file=skater&code=1906082802,Klaas Schenk,place of birth,Wieringerwaard,Q1875821,P19,Q2463247,0
+http://speedskatingstats.com/index.php?file=skater&code=1906082802,Klaas Schenk,child,Ard Schenk,Q1875821,P40,Q41522,0
+http://id.loc.gov/authorities/names/no2015096737.html,Richard L. Pyle,place of birth,Kailua,Q21340682,P19,Q532459,0
+http://www.sports-reference.com/olympics/athletes/ba/andrey-bakhvalov-1.html,Andrey Bakhvalov,place of birth,Moscow,Q1927495,P19,Q649,1
+http://feed.snapdo.com/?publisher=Minutes&dpid=network2&q=Brenninkmeijer_family,Philippe Brenninkmeyer,place of birth,Wimbledon,Q374363,P19,Q736742,1
+http://www.hockeydb.com/ihdb/stats/display_players.php?tmi=7440,Frédérik Cabana,place of birth,Fleurimont,Q1301464,P19,Q3073618,1
+http://www.dubaicityguide.com/site/features/index.asp?id=3149,Dubai,twinned administrative body,New York City,Q612,P190,Q60,1
+https://library.leeds.ac.uk/special-collections-explore/372687,Horae Beatae Mariae Virginis,collection,Leeds University Library,Q26208717,P195,Q24568958,0
+http://collections.lacma.org/node/212182,"View of the Herengracht, Amsterdam, from the Leliegracht",collection,Los Angeles County Museum of Art,Q20880021,P195,Q1641836,0
+http://www.metmuseum.org/collection/the-collection-online/search/437832,Portrait of a Man,collection,Metropolitan Museum of Art,Q19912117,P195,Q160236,0
+http://collections.lacma.org/node/2114212,Drake,collection,Los Angeles County Museum of Art,Q20882206,P195,Q1641836,0
+http://www.metmuseum.org/collection/the-collection-online/search/10241,To Decide the Question,collection,Metropolitan Museum of Art,Q19924375,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/437234,Dog Guarding Dead Game,collection,Metropolitan Museum of Art,Q19912172,P195,Q160236,0
+http://collections.lacma.org/node/188668,"Santa Monica, Melrose, Beverly, La Brea, Fairfax",collection,Los Angeles County Museum of Art,Q20879585,P195,Q1641836,0
+http://www.philamuseum.org/collections/permanent/61513.html,Self-Portrait,collection,Philadelphia Museum of Art,Q20816752,P195,Q510324,0
+https://collections.artsmia.org/index.php?page=detail&id=2127,Jonathan's Token to David,collection,Minneapolis Institute of Art,Q20891204,P195,Q1700481,0
+http://collections.lacma.org/node/193799,Portrait of John Dunbar (Retrato de John Dunbar),collection,Los Angeles County Museum of Art,Q20879922,P195,Q1641836,0
+https://collections.artsmia.org/index.php?page=detail&id=21888,Badlands Rider,collection,Minneapolis Institute of Art,Q20891638,P195,Q1700481,0
+http://www.metmuseum.org/collection/the-collection-online/search/494775,Seated Figure,collection,Metropolitan Museum of Art,Q19917879,P195,Q160236,0
+http://www.phillipscollection.org/collection/browse-the-collection?id=1708,Moonlit Cove,collection,The Phillips Collection,Q23939836,P195,Q578485,0
+https://collections.artsmia.org/index.php?page=detail&id=13248,Slow Motion,collection,Minneapolis Institute of Art,Q20891514,P195,Q1700481,0
+http://www.metmuseum.org/collection/the-collection-online/search/436522,A Benedictine Monk,collection,Metropolitan Museum of Art,Q19912002,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/440331,Mausoleum of San Vito near Pozzuoli,collection,Metropolitan Museum of Art,Q19913180,P195,Q160236,0
+http://americanart.si.edu/collections/search/artwork/?id=26587,Woolly Fleabane (Erigeron lanatus),collection,Smithsonian American Art Museum,Q20523554,P195,Q1192305,0
+http://www.metmuseum.org/collection/the-collection-online/search/492702,Title Unknown,collection,Metropolitan Museum of Art,Q19922057,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/435619,The Betrayal of Christ,collection,Metropolitan Museum of Art,Q19912855,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/481860,Berkshire Winter,collection,Metropolitan Museum of Art,Q19914397,P195,Q160236,0
+https://collections.artsmia.org/index.php?page=detail&id=3267,Still Life with Pheasants and Plovers,collection,Minneapolis Institute of Art,Q20891288,P195,Q1700481,0
+http://americanart.si.edu/collections/search/artwork/?id=11416,Plant and Pot and Trowel,collection,Smithsonian American Art Museum,Q20489886,P195,Q1192305,0
+http://collections.britishart.yale.edu/vufind/Record/3866211,Portrait of a Woman,collection,Yale Center for British Art,Q23698605,P195,Q6352575,0
+http://www.metmuseum.org/collection/the-collection-online/search/11081,Peaceable Kingdom,collection,Metropolitan Museum of Art,Q19923950,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/19014,Moses Gill,collection,Metropolitan Museum of Art,Q20172871,P195,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/487837,Table ornament,collection,Metropolitan Museum of Art,Q20200669,P195,Q160236,0
+http://www.sports-reference.com/olympics/athletes/di/bill-disney-1.html,Bill Disney,place of death,Lake Havasu City,Q3434209,P20,Q79435,1
+https://en.wikisource.org/wiki/Catholic_Encyclopedia_%281913%29/Louis-S%C3%A9bastien_Le_Nain_de_Tillemont,Louis-Sébastien Le Nain de Tillemont,place of death,Paris,Q1361139,P20,Q90,0
+http://www.britannica.com/EBchecked/topic/502814/Charles-Lennox-3rd-duke-of-Richmond,"Charles Lennox, 3rd Duke of Richmond",place of death,Goodwood House,Q1065334,P20,Q1537630,0
+http://www.europarl.europa.eu/meps/en/96829/ADAM_KOSA_home.html,Ádám Kósa,X (Twitter) username,adamkosamep,Q249551,P2002,adamkosamep,0
+https://instagram.com/mittromney/,Mitt Romney,Instagram username,mittromney,Q4496,P2003,mittromney,0
+https://instagram.com/governorpataki/,George Pataki,Instagram username,governorpataki,Q11676,P2003,governorpataki,0
+http://www.getty.edu/vow/ULANFullDisplay?find=&role=&nation=&subjectid=500060662,Peter van Lerberghe,work period (end),+1805-00-00T00:00:00Z,Q25211793,P2032,+1805-00-00T00:00:00Z,1
+http://bbti.bodleian.ox.ac.uk/details/?traderid=46872,Henri Merke,work period (end),+1820-00-00T00:00:00Z,Q25500754,P2032,+1820-00-00T00:00:00Z,1
+http://www.geonames.org/8224894,Sheikh Abd el-Qurna,elevation above sea level,+104,Q241042,P2044,+104,0
+http://www.geonames.org/361055,Ismailia,elevation above sea level,+14,Q217156,P2044,+14,0
+http://www.geonames.org/347303,Akoris,elevation above sea level,+47,Q741742,P2044,+47,1
+http://www.geonames.org/358293,Red Monastery,elevation above sea level,+98,Q7304611,P2044,+98,1
+http://www.geonames.org/352089,Mons Claudianus,elevation above sea level,+741,Q1146716,P2044,+741,1
+http://www.geonames.org/349076,Shobra Elkhema,elevation above sea level,+26,Q269960,P2044,+26,1
+http://www.geonames.org/358454,Ain el-Dalla,elevation above sea level,+86,Q14223987,P2044,+86,0
+http://whc.unesco.org/en/list/403,Mount Kilimanjaro,elevation above sea level,+5895,Q7296,P2044,+5895,0
+http://www.allmusic.com/album/biorytmy-mw0001685300,Biorytmy,duration,+3767,Q11151025,P2047,+3767,1
+http://collections.britishart.yale.edu/vufind/Record/1668391,"The Meteor of August 18, 1783, as seen from the East Angle of the North Terrace, Windsor Castle",width,+48.3,Q24024781,P2049,+48.3,1
+http://www.cdc.gov/niosh/npg/npgd0556.html,silane,mass,+32.1,Q410572,P2067,+32.1,1
+http://www.cdc.gov/niosh/npg/npgd0684.html,silica dust,mass,+60.1,Q20963647,P2067,+60.1,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750011.html,mechlorethamine,mass,+156.06,Q418011,P2067,+156.06,1
+http://www.cdc.gov/niosh/npg/npgd0652.html,pentanal,mass,+86.2,Q420652,P2067,+86.2,1
+http://www.cdc.gov/niosh/npg/npgd0142.html,chromyl chloride,mass,+154.9,Q417044,P2067,+154.9,1
+http://www.cdc.gov/niosh/npg/npgd0386.html,methacrylic acid,mass,+86.1,Q165949,P2067,+86.1,1
+http://www.cdc.gov/niosh/npg/npgd0463.html,m-nitrotoluene,melting point,+59,Q2816005,P2101,+59,1
+http://www.cdc.gov/niosh/npg/npgd0035.html,p-anisidine,melting point,+135,Q3333299,P2101,+135,1
+http://www.cdc.gov/niosh/npg/npgd0451.html,p-nitrobiphenyl,melting point,+237,Q20966444,P2101,+237,1
+http://www.cdc.gov/niosh/npg/npgd0462.html,o-nitrotoluene,melting point,+25,Q2533785,P2101,+25,1
+http://www.cdc.gov/niosh/npg/npgd0596.html,"1,2-difluoro-1,1,2,2-tetrachloroethane",melting point,+77,Q2806548,P2101,+77,1
+http://www.cdc.gov/niosh/npg/npgd0107.html,carbon tetrachloride,melting point,-9,Q225045,P2101,-9,1
+http://www.cdc.gov/niosh/npg/npgd0293.html,formaldehyde,boiling point,-6,Q161210,P2102,-6,1
+http://www.cdc.gov/niosh/npg/npgd0479.html,parathion,boiling point,+707,Q412556,P2102,+707,1
+http://www.cdc.gov/niosh/npg/npgd0184.html,"1,2-dibromo-3-chloropropane",boiling point,+384,Q161465,P2102,+384,1
+http://www.cdc.gov/niosh/npg/npgd0333.html,hydrogen cyanide,boiling point,+78,Q26075,P2102,+78,1
+http://www.cdc.gov/niosh/npg/npgd0229.html,dimethyl sulfate,decomposition point,+370,Q413421,P2107,+370,1
+http://www.cdc.gov/niosh/npg/npgd0072.html,butyl acetate,vapor pressure,+10,Q411073,P2119,+10,0
+http://www.cdc.gov/niosh/npg/npgd0679.html,liquefied petroleum gas,vapor pressure,+1,Q351609,P2119,+1,1
+http://www.cdc.gov/niosh/npg/npgd0543.html,resorcin,vapor pressure,+0.0002,Q408865,P2119,+0.0002,1
+http://www.cdc.gov/niosh/npg/npgd0008.html,acetylene,vapor pressure,+44.2,Q133145,P2119,+44.2,1
+http://www.cdc.gov/niosh/npg/npgd0449.html,p-nitroaniline,flash point,+390,Q419842,P2128,+390,1
+http://www.cdc.gov/niosh/npg/npgd0363.html,glycidyl isopropyl ether,flash point,+92,Q2803610,P2128,+92,1
+http://www.cdc.gov/niosh/npg/npgd0441.html,1-naphthylamine,flash point,+315,Q161655,P2128,+315,1
+http://www.cdc.gov/niosh/npg/npgd0608.html,soluble thallium compounds,immediately dangerous to life or health,+15,Q20965080,P2129,+15,1
+http://www.cdc.gov/niosh/npg/npgd0325.html,hexan-2-one,immediately dangerous to life or health,+6560,Q209404,P2129,+6560,1
+http://www.cdc.gov/niosh/npg/npgd0126.html,polychlorinated biphenyl with 54% chlorine,immediately dangerous to life or health,+5,Q21058099,P2129,+5,0
+http://www.cdc.gov/niosh/npg/npgd0019.html,allyl glycidyl ether,immediately dangerous to life or health,+233.5,Q2467070,P2129,+233.5,1
+http://www.boxofficemojo.com/movies/?id=junglebook2015.htm,The Jungle Book,box office,+912739019,Q16857406,P2142,+912739019,0
+http://www.metmuseum.org/collection/the-collection-online/search/11834,Leatherstocking's Rescue,inventory number,1978.262,Q20169764,P217,1978.262,0
+http://www.metmuseum.org/collection/the-collection-online/search/488532,Old Tombstones,inventory number,49.70.84,Q19921203,P217,49.70.84,0
+http://www.brooklynmuseum.org/opencollection/objects/4512/Jesus_Goes_Up_Alone_onto_a_Mountain_to_Pray_J%C3%A9sus_monte_seul_sur_une_montagne_pour_prier,Jesus Goes Up Alone onto a Mountain to Pray,inventory number,00.159.137,Q19858299,P217,00.159.137,0
+http://americanart.si.edu/collections/search/artwork/?id=31889,Hermia and Helena,inventory number,1990.21,Q20527542,P217,1990.21,0
+http://www.philamuseum.org/collections/permanent/82719.html,For Sale,inventory number,1986-26-273,Q20808651,P217,1986-26-273,1
+http://americanart.si.edu/collections/search/artwork/?id=27676,The Anniversary,inventory number,1971.83,Q20524932,P217,1971.83,0
+http://www.metmuseum.org/collection/the-collection-online/search/12939,Marine,inventory number,63.138.3,Q20171605,P217,63.138.3,0
+http://americanart.si.edu/collections/search/artwork/?id=25825,Alpine Harebell (Campanula lasiocarpa),inventory number,1970.355.705,Q20506446,P217,1970.355.705,0
+http://www.metmuseum.org/collection/the-collection-online/search/488401,Pink Roofs,inventory number,49.70.173,Q19921003,P217,49.70.173,0
+http://www.metmuseum.org/collection/the-collection-online/search/11979,Moonlight Marine,inventory number,34.55,Q19925449,P217,34.55,1
+http://americanart.si.edu/collections/search/artwork/?id=27878,View of Cuernavaca,inventory number,1970.282,Q20526099,P217,1970.282,0
+http://www.philamuseum.org/collections/permanent/72080.html,Still Life with Roses and Asters in a Glass,inventory number,1978-1-13,Q20808956,P217,1978-1-13,0
+http://www.metmuseum.org/art/collection/search/492377,Giso 404,inventory number,2002.16,Q26228930,P217,2002.16,0
+http://americanart.si.edu/collections/search/artwork/?id=11098,Niagara Falls,inventory number,1929.6.67,Q20489842,P217,1929.6.67,0
+http://www.nationaltrustcollections.org.uk/object/533858,Hung Game with a Swan and a Peacock on a Table and a Page Holding a Parrot,inventory number,NT 533858,Q26000992,P217,NT 533858,0
+http://www.nationalgallery.org.uk/paintings/followers-of-gerard-david-saint-peter-and-a-donor,Saint Peter and a Donor,inventory number,NG657.1,Q26708473,P217,NG657.1,0
+http://collections.lacma.org/node/243436,Untitled,inventory number,M.82.283.2,Q20881607,P217,M.82.283.2,0
+https://github.com/gemrb/gemrb/blob/master/COPYING,GemRB,copyright license,"GNU General Public License, version 2.0",Q1988298,P275,Q10513450,0
+http://www.brooklynmuseum.org/opencollection/objects/4428/The_Vision_of_Saint_Joseph_Vision_de_Saint_Joseph,The Vision of Saint Joseph,inventory number,00.159.22,Q19858216,P217,00.159.22,0
+http://collections.lacma.org/node/172826,Scholar in Landscape,inventory number,M.91.307.1,Q20879020,P217,M.91.307.1,0
+http://www.metmuseum.org/collection/the-collection-online/search/436406,Study of a Nude Man,inventory number,52.71,Q19905121,P217,52.71,1
+http://www.philamuseum.org/collections/permanent/102663.html,Portrait of a Man,inventory number,Cat. 836,Q20808108,P217,Cat. 836,0
+http://americanart.si.edu/collections/search/artwork/?id=26314,Sequoia (Sequoia gigantea),inventory number,1970.355.10,Q20516867,P217,1970.355.10,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750031.html,ethylene glycol exposure,drug or therapy used for treatment,ethanol,Q21174292,P2176,Q153,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750028.html,nicotine poisoning,drug or therapy used for treatment,atropine,Q7030575,P2176,Q26272,1
+http://www.cdc.gov/niosh/npg/npgd0347.html,isoamyl acetate,solubility,+0.3,Q221307,P2177,+0.3,1
+http://www.cdc.gov/niosh/npg/npgd0196.html,bis(2-chloroethyl)ether,solubility,+1,Q2509768,P2177,+1,1
+http://www.nndb.com/people/731/000023662/,Douglas Adams,father,"{'lv': {'language': 'lv', 'value': 'Kristofers Duglass Adamss'}, 'el': {'language': 'el', 'value': 'Κρίστοφερ Ντάγκλας Άνταμς'}, 'mk': {'language': 'mk', 'value': 'Кристофер Даглас Адамс'}, 'te': {'language': 'te', 'value': 'క్రిస్టఫర్ డోగ్లస్ ఆడమ్స్'}, 'hy': {'language': 'hy', 'value': 'Քրիստոֆեր Դուգլաս Ադամս'}, 'ru': {'language': 'ru', 'value': 'Кристофер Дуглас Адамс'}, 'kn': {'language': 'kn', 'value': 'ಕ್ರಿಸ್ಟಫರ್ ಡಾಗ್ಲಸ್ ಆಡಮ್ಸ್'}, 'be': {'language': 'be', 'value': 'Крыстафер Дуглас Адам'}, 'ar': {'language': 'ar', 'value': 'كريستوفر دوغلاس آدمز'}, 'be-tarask': {'language': 'be-tarask', 'value': 'Крыстафэр Дуглас Адамз'}, 'he': {'language': 'he', 'value': 'כריסטופר דאגלס אדמס'}, 'zh': {'language': 'zh', 'value': '克里斯托弗·道格拉斯·亚当斯'}, 'mul': {'language': 'mul', 'value': 'Christopher Douglas Adams'}, 'ja': {'language': 'ja', 'value': 'クリストファー・ダグラス・アダムズ'}}",Q42,P22,Q14623675,0
+http://www.cdc.gov/niosh/npg/npgd0212.html,3-methyl-2-butanone,lower flammable limit,+1.6,Q223112,P2202,+1.6,1
+http://www.cdc.gov/niosh/npg/npgd0178.html,diacetone alcohol,upper flammable limit,+6.9,Q421486,P2203,+6.9,1
+http://www.businessinsider.com/theranos-ceo-elizabeth-holmes-net-worth-now-0-according-to-forbes-2016-6,Elizabeth Holmes,net worth,+0,Q17503525,P2218,+0,0
+http://www.cdc.gov/niosh/npg/npgd0142.html,chromyl chloride exposure,first aid measures,artificial respiration,Q21173580,P2239,Q545991,1
+http://www.cdc.gov/niosh/npg/npgd0670.html,P-xylene exposure,first aid measures,artificial respiration,Q21175425,P2239,Q545991,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750009.html,phosgene oxime exposure,first aid measures,nil per os,Q21515200,P2239,Q7036808,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750009.html,phosgene oxime exposure,symptoms and signs,keratitis,Q21515200,P780,Q757838,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750009.html,phosgene oxime exposure,symptoms and signs,lesion,Q21515200,P780,Q827023,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750009.html,phosgene oxime exposure,symptoms and signs,itch,Q21515200,P780,Q199602,1
+http://www.cdc.gov/niosh/npg/npgd0154.html,O-cresol exposure,first aid measures,immediate eye irrigation,Q21174100,P2239,Q21010953,1
+http://www.cdc.gov/niosh/npg/npgd0071.html,2-butoxyethyl acetate exposure,first aid measures,prompt water flush with soap,Q21173323,P2239,Q21010964,1
+http://www.cdc.gov/niosh/npg/npgd0416.html,methyl ethyl ketone peroxide exposure,first aid measures,immediate eye irrigation,Q21174916,P2239,Q21010953,0
+http://www.cdc.gov/niosh/npg/npgd0416.html,methyl ethyl ketone peroxide exposure,afflicts,liver,Q21174916,P689,Q9368,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750011.html,mechlorethamine exposure,first aid measures,evaluation of respiratory function and pulse,Q21513721,P2239,Q21402614,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750011.html,mechlorethamine exposure,symptoms and signs,eye irritation,Q21513721,P780,Q21111972,0
+http://www.cdc.gov/niosh/npg/npgd0435.html,monocrotophos exposure,first aid measures,immediate water flush,Q21174936,P2239,Q21010960,1
+http://www.cdc.gov/niosh/npg/npgd0188.html,dichloroacetylene exposure,first aid measures,immediate medical attention,Q21174152,P2239,Q21010973,1
+http://www.cdc.gov/niosh/npg/npgd0220.html,methyl yellow exposure,first aid measures,immediate medical attention,Q21174194,P2239,Q21010973,1
+http://www.cdc.gov/niosh/npg/npgd0141.html,chromium exposure,first aid measures,immediate eye irrigation,Q21173579,P2239,Q21010953,0
+http://www.cdc.gov/niosh/npg/npgd0141.html,chromium exposure,afflicts,human,Q21173579,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0518.html,plaster exposure,first aid measures,immediate medical attention,Q21175065,P2239,Q21010973,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750017.html,adamsite exposure,first aid measures,administration of soothing compounds,Q21281859,P2239,Q21402591,1
+http://www.cdc.gov/niosh/npg/npgd0466.html,nonane exposure,first aid measures,immediate medical attention,Q21175014,P2239,Q21010973,1
+http://www.cdc.gov/niosh/npg/npgd0536.html,propylene glycol methyl ether exposure,first aid measures,immediate eye irrigation,Q21175084,P2239,Q21010953,1
+http://www.cdc.gov/niosh/npg/npgd0352.html,isobutanol exposure,first aid measures,prompt water flush,Q21174781,P2239,Q21010967,1
+http://www.cdc.gov/niosh/npg/npgd0117.html,chlorine trifluoride exposure,first aid measures,immediate medical attention,Q21173553,P2239,Q21010973,1
+http://www.cdc.gov/niosh/npg/npgd0117.html,chlorine trifluoride exposure,route of administration,eye contact,Q21173553,P636,Q21074571,1
+http://www.cdc.gov/niosh/npg/npgd0492.html,petroleum naphtha exposure,first aid measures,artificial respiration,Q21175040,P2239,Q545991,1
+http://www.cdc.gov/niosh/npg/npgd0034.html,o-anisidine exposure,first aid measures,immediate medical attention,Q21167808,P2239,Q21010973,1
+http://www.cdc.gov/niosh/npg/npgd0386.html,methacrylic acid exposure,first aid measures,artificial respiration,Q21174886,P2239,Q545991,1
+http://www.cdc.gov/niosh/npg/npgd0118.html,chloroacetaldehyde exposure,first aid measures,artificial respiration,Q21173554,P2239,Q545991,1
+http://www.cdc.gov/niosh/npg/npgd0390.html,mequinol exposure,first aid measures,immediate eye irrigation,Q21174890,P2239,Q21010953,1
+http://www.cdc.gov/niosh/npg/npgd0384.html,exposure to mercury alkyl compounds,first aid measures,immediate eye irrigation,Q21174881,P2239,Q21010953,1
+http://www.cdc.gov/niosh-rtecs/DD62CCF8.html#modalIdString_CDCTable_3,benomyl,median lethal dose (LD50),+1,Q420172,P2240,+1,1
+http://www.cdc.gov/niosh-rtecs/XY557300.html,atrazine,median lethal dose (LD50),+1,Q408652,P2240,+1,1
+http://www.cdc.gov/niosh-rtecs/IO200B20.html#modalIdString_CDCTable_6,aldrin,median lethal dose (LD50),+39,Q409054,P2240,+39,1
+http://www.cdc.gov/niosh-rtecs/AB1D5F88.html,acetaldehyde,median lethal dose (LD50),+13300,Q61457,P2240,+13300,1
+http://www.cdc.gov/niosh-rtecs/AB1D5F88.html,acetaldehyde,time-weighted average exposure limit,+5,Q61457,P2404,+5,0
+http://www.cdc.gov/niosh-rtecs/DC802C8.html#modalIdString_CDCTable_2,thiophenol,median lethal dose (LD50),+28,Q338965,P2240,+28,1
+http://www.cdc.gov/niosh-rtecs/DC802C8.html#modalIdString_CDCTable_5,thiophenol,short-term exposure limit,+0.8,Q338965,P2407,+0.8,1
+http://www.cdc.gov/niosh-rtecs/CG62CCF8.html#modalIdString_CDCTable_0,arsenic trihydride,median lethal dose (LD50),+390,Q334599,P2240,+390,1
+http://www.cdc.gov/niosh-rtecs/CC3D6AA8.html#modalIdString_CDCTable_1,antimony,median lethal dose (LD50),+150,Q1099,P2240,+150,1
+http://www.cdc.gov/niosh/idlh/7440360.html,antimony,median lethal dose (LD50),+720,Q1099,P2240,+720,1
+http://www.cdc.gov/niosh-rtecs/CC3D6AA8.html#modalIdString_CDCTable_3,antimony,time-weighted average exposure limit,+0.1,Q1099,P2404,+0.1,1
+http://www.cdc.gov/niosh-rtecs/CG802C8.html#modalIdString_CDCTable_3,arsenic,median lethal dose (LD50),+1000,Q871,P2240,+1000,1
+http://www.cdc.gov/niosh-rtecs/CQ92DDA8.html#modalIdString_CDCTable_1,barium nitrate,median lethal dose (LD50),+390,Q407666,P2240,+390,0
+http://www.cdc.gov/niosh-rtecs/AF12B128.html#modalIdString_CDCTable_4,acetic acid,median lethal dose (LD50),+4960,Q47512,P2240,+4960,0
+http://www.cdc.gov/niosh-rtecs/OD8D8678.html,acetone cyanohydrin,median lethal dose (LD50),+2.9,Q222936,P2240,+2.9,1
+http://www.cdc.gov/niosh-rtecs/CY155CC0.html#modalIdString_CDCTable_4,benzene,median lethal dose (LD50),+1800,Q2270,P2240,+1800,1
+https://peerj.com/articles/1011/,Brachycephalus olivaceus,taxon name,Brachycephalus olivaceus,Q20049477,P225,Brachycephalus olivaceus,0
+http://www.cdc.gov/niosh/npg/npgd0131.html,chloropentafluoroethane,ionization energy,+12.96,Q419702,P2260,+12.96,1
+http://www.cdc.gov/niosh/npg/npgd0622.html,o-toluidine,ionization energy,+7.44,Q311695,P2260,+7.44,1
+http://www.cdc.gov/niosh/npg/npgd0149.html,exposure to coke oven emissions,route of administration,inhalation administration,Q21174094,P636,Q10268830,0
+http://www.cdc.gov/niosh/idlh/62533.html,aniline,minimal lethal dose,+250,Q186414,P2300,+250,1
+http://www.cdc.gov/niosh-rtecs/AL757E20.html,acetonitrile,minimal lethal dose,+105,Q408047,P2300,+105,1
+http://www.cdc.gov/niosh/npg/npgd0055.html,exposure to bismuth telluride doped with selenium sulfide,afflicts,human eye,Q21167961,P689,Q430024,1
+http://www.cdc.gov/niosh-rtecs/CQ8583B0.html#modalIdString_CDCTable_2,barium chloride,minimal lethal dose,+7,Q407270,P2300,+7,1
+http://www.cdc.gov/niosh-rtecs/CQ8583B0.html#modalIdString_CDCTable_2,barium chloride,minimal lethal dose,+10,Q407270,P2300,+10,1
+http://www.cdc.gov/niosh-rtecs/UC7026F0.html#modalIdString_CDCTable_4,allyl chloride,minimal lethal dose,+20000,Q420473,P2300,+20000,1
+http://www.cdc.gov/niosh/npg/npgd0369.html,limestone,CAS Registry Number,1317-65-3,Q23757,P231,1317-65-3,1
+https://chem.nlm.nih.gov/chemidplus/rn/1317-43-7,nemalite,CAS Registry Number,1317-43-7,Q3874544,P231,1317-43-7,0
+"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/65063/property/InChI,InChIKey,CanonicalSMILES/JSON",deoxyuridine monophosphate,canonical SMILES,C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O,Q26998357,P233,C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O,0
+"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/4708/property/InChI,InChIKey,CanonicalSMILES/JSON",pd-168393,InChI,"1S/C17H13BrN4O/c1-2-16(23)21-13-6-7-15-14(9-13)17(20-10-19-15)22-12-5-3-4-11(18)8-12/h2-10H,1H2,(H,21,23)(H,19,20,22)",Q26998221,P234,"1S/C17H13BrN4O/c1-2-16(23)21-13-6-7-15-14(9-13)17(20-10-19-15)22-12-5-3-4-11(18)8-12/h2-10H,1H2,(H,21,23)(H,19,20,22)",0
+"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/53481235/property/InChI,InChIKey,CanonicalSMILES/JSON",GQ1c,instance of,chemical compound,Q26998365,P31,Q11173,0
+"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/53481235/property/InChI,InChIKey,CanonicalSMILES/JSON",GQ1c,instance of,chemical compound,Q26998365,P31,Q11173,0
+http://planetarynames.wr.usgs.gov/Feature/4662,Perrine Regio,diameter,+3800,Q25336951,P2386,+3800,1
+https://github.com/unitedstates/congress-legislators,John Barrasso,YouTube channel ID,UC80PfiCAB2Fe1MFayWlR6GQ,Q720521,P2397,UC80PfiCAB2Fe1MFayWlR6GQ,1
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=27K,Georgetown-Scott County Airport,FAA airport code,27K,Q3274373,P240,27K,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=3O1,Gustine Airport,FAA airport code,3O1,Q5621632,P240,3O1,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=N68,Franklin County Regional Airport,FAA airport code,N68,Q10853487,P240,N68,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=57S,Troy Airport,FAA airport code,57S,Q6588280,P240,57S,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=8B1,Hawthorne-Feather Airpark,FAA airport code,8B1,Q3886910,P240,8B1,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=4J6,St. Marys Airport,FAA airport code,4J6,Q7590562,P240,4J6,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=06B,Lucky Landing Marina and Seaplane Base,FAA airport code,06B,Q6697935,P240,06B,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=U52,Beaver Municipal Airport,FAA airport code,U52,Q1655540,P240,U52,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=44N,Sky Acres Airport,FAA airport code,44N,Q7537232,P240,44N,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=6J2,St. George Airport (South Carolina),FAA airport code,6J2,Q14709645,P240,6J2,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=42C,White Cloud Airport,FAA airport code,42C,Q7994580,P240,42C,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=49N,Lufker Airport,FAA airport code,49N,Q6699636,P240,49N,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=O79,Sierraville Dearwater Airport,FAA airport code,O79,Q7511718,P240,O79,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=T42,Ruth Airport,FAA airport code,T42,Q10849563,P240,T42,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=T51,Dan Jones International Airport,FAA airport code,T51,Q1707764,P240,T51,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=WA09,Roche Harbor Airport,FAA airport code,WA09,Q14713883,P240,WA09,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=B21,Sugarloaf Regional Airport,FAA airport code,B21,Q7635019,P240,B21,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=78FL,Pomona Landing Airport,FAA airport code,78FL,Q7227394,P240,78FL,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=E61,Conchas Lake Seaplane Base,FAA airport code,E61,Q1657482,P240,E61,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=66S,Cavanaugh Bay Airport,FAA airport code,66S,Q1962658,P240,66S,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=IA27,Antique Airfield,FAA airport code,IA27,Q4775163,P240,IA27,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=22OG,Withrotor Airport,FAA airport code,22OG,Q8028288,P240,22OG,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=N45,Kobelt Airport,FAA airport code,N45,Q6424365,P240,N45,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=18T,Tatum Airport,FAA airport code,18T,Q7688510,P240,18T,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=9U0,Turner Airport,FAA airport code,9U0,Q14704785,P240,9U0,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=3A0,Grove Hill Municipal Airport,FAA airport code,3A0,Q5611408,P240,3A0,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=2OR1,Big Muddy Ranch Airport,FAA airport code,2OR1,Q619961,P240,2OR1,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=0E8,Crownpoint Airport,FAA airport code,0E8,Q1657811,P240,0E8,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=H57,Bismarck Memorial Airport,FAA airport code,H57,Q597879,P240,H57,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=48D,Clare Municipal Airport,FAA airport code,48D,Q3274642,P240,48D,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=49S,Babb Airport,FAA airport code,49S,Q14704520,P240,49S,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=6MA0,Lake Gardner Seaplane Base,FAA airport code,6MA0,Q6475919,P240,6MA0,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=30M,Ralph M Sharpe Airport,FAA airport code,30M,Q5306800,P240,30M,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=7OR4,Pineridge Ranch Airport,FAA airport code,7OR4,Q7195557,P240,7OR4,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=7OR0,Minam Lodge Airport,FAA airport code,7OR0,Q3565328,P240,7OR0,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=I18,Jackson County Airport,FAA airport code,I18,Q6117021,P240,I18,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=S28,International Peace Garden Airport,FAA airport code,S28,Q1433660,P240,S28,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=5OR0,Backachers Ranch Airport,FAA airport code,5OR0,Q2900755,P240,5OR0,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=OR52,Venell Airport,FAA airport code,OR52,Q7919684,P240,OR52,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=Y98,Grand Marais Airport,FAA airport code,Y98,Q3913919,P240,Y98,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=D42,Springfield Municipal Airport (Minnesota),FAA airport code,D42,Q14693064,P240,D42,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=PO1,Poplar Municipal Airport,FAA airport code,PO1,Q14704755,P240,PO1,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=5I2,Flora Municipal Airport,FAA airport code,5I2,Q18150151,P240,5I2,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=OR81,Olinger Strip,FAA airport code,OR81,Q10848408,P240,OR81,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=IN95,Ralph E. Koch Airport,FAA airport code,IN95,Q14688770,P240,IN95,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=K61,Moritz Memorial Airport,FAA airport code,K61,Q3612262,P240,K61,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=5Y4,Lost Creek Airport,FAA airport code,5Y4,Q6683965,P240,5Y4,0
+https://nfdc.faa.gov/nfdcApps/services/airportLookup/airportDisplay.jsp?airportId=28U,Owyhee Reservoir State Airport,FAA airport code,28U,Q10845718,P240,28U,0
+http://www.cdc.gov/niosh-rtecs/KI7D80E8.html,"1,1,2,2-tetrabromoethane",time-weighted average exposure limit,+7,Q161271,P2404,+7,1
+http://www.cdc.gov/niosh/npg/npgd0565.html,sodium hydroxide,time-weighted average exposure limit,+2,Q102769,P2404,+2,1
+http://www.cdc.gov/niosh/npg/npgd0648.html,turpentine,time-weighted average exposure limit,+560,Q201382,P2404,+560,1
+http://www.cdc.gov/niosh/npg/npgd0615.html,tin(II) oxide,time-weighted average exposure limit,+2,Q204980,P2404,+2,0
+http://www.cdc.gov/niosh-rtecs/DC92DDA8.html#modalIdString_CDCTable_4,benzidine,ceiling exposure limit,+0.008,Q410066,P2405,+0.008,0
+http://www.cdc.gov/niosh-rtecs/BA4D7038.html#modalIdString_CDCTable_6,allyl alcohol,short-term exposure limit,+5,Q414553,P2407,+5,1
+http://www.cdc.gov/niosh-rtecs/BD124F80.html,aluminium oxide,short-term exposure limit,+16,Q177342,P2407,+16,0
+http://www.cdc.gov/niosh/npg/npgd0650.html,insoluble uranium compounds,short-term exposure limit,+0.6,Q20964088,P2407,+0.6,1
+http://www.archive.org/stream/prosopographiaa00kircgoog#page/n267/mode/2up,Demon,member of the deme,Paiania,Q1186427,P2462,Q18015501,1
+http://www.archive.org/stream/prosopographiaa00kircgoog#page/n49/mode/2up,Acumenus,member of the deme,somevalue,Q423734,P2462,somevalue,1
+http://www.archive.org/stream/prosopographiaa00kircgoog#page/n315/mode/2up,Diphilus of Athens,member of the deme,somevalue,Q11917921,P2462,somevalue,1
+http://www.sports-reference.com/olympics/athletes/mu/peter-mueller-1.html,Peter Mueller,spouse,Leah Poulos,Q1700459,P26,Q445525,1
+http://www.vanitatis.elconfidencial.com/noticias/2012-05-29/alejandro-sanz-y-raquel-perera-regalan-su-boda_550044/,Alejandro Sanz,spouse,Raquel Perera,Q276170,P26,Q26260051,0
+http://www.filmreference.com/film/85/Armin-Shimerman.html,Armin Shimerman,spouse,Kitty Swink,Q353101,P26,Q6418605,0
+http://whc.unesco.org/en/list/124,Historic Town of Ouro Preto,World Heritage criteria,(i),Q3845692,P2614,Q23038972,0
+http://whc.unesco.org/en/list/1025,Villa d'Este,World Heritage criteria,(ii),Q746063,P2614,Q23038976,0
+http://whc.unesco.org/en/list/1229,Crac des Chevaliers and Qal’at Salah El-Din,World Heritage criteria,(iv),Q15604681,P2614,Q23038978,0
+http://whc.unesco.org/en/list/1215,Cornwall and West Devon Mining Landscape,World Heritage criteria,(ii),Q464566,P2614,Q23038976,0
+http://whc.unesco.org/en/list/260,Sangay National Park,World Heritage criteria,(x),Q839603,P2614,Q23038986,0
+http://whc.unesco.org/en/list/232,Humayun's Tomb,World Heritage criteria,(iv),Q189648,P2614,Q23038978,0
+http://whc.unesco.org/en/list/274,Historic Sanctuary of Machu Picchu,World Heritage criteria,(i),Q3331815,P2614,Q23038972,0
+http://whc.unesco.org/en/list/984,Blaenavon,World Heritage criteria,(iv),Q804282,P2614,Q23038978,0
+http://web.archive.org/web/20141015125316/http://www.kartverket.no/Kunnskap/Fakta-om-Norge/Hoyeste-fjelltopp-i-kommunen/Tabell/,Snota,topographic isolation,+21.18,Q4588106,P2659,+21.18,1
+http://www.sports-reference.com/olympics/athletes/gr/roger-green-1.html,Roger Green,country of citizenship,Canada,Q16106277,P27,Q16,1
+http://www.sports-reference.com/olympics/athletes/ch/erik-christensen-1.html,Erik Christensen,country of citizenship,Denmark,Q5388532,P27,Q35,0
+http://www.sports-reference.com/olympics/athletes/kw/alexander-kwangwari-1.html,Alex Kwangwari,country of citizenship,Zimbabwe,Q19402409,P27,Q954,0
+http://www.sports-reference.com/olympics/athletes/ch/franco-chino-1.html,Franco Chino,country of citizenship,Italy,Q20676238,P27,Q38,1
+http://www.sports-reference.com/olympics/athletes/ma/per-mattson-1.html,Per Mattson,country of citizenship,Sweden,Q7166759,P27,Q34,0
+http://www.sports-reference.com/olympics/athletes/br/james-browne-1.html,James Browne,country of citizenship,Antigua and Barbuda,Q16196385,P27,Q781,0
+http://www.britannica.com/biography/Giulio-Aleni,Giulio Alenio,country of citizenship,Republic of Venice,Q2707504,P27,Q4948,0
+http://www.sports-reference.com/olympics/athletes/la/peter-lash-jr-1.html,Peter Lash,country of citizenship,United States,Q7175359,P27,Q30,0
+http://www.sports-reference.com/olympics/athletes/po/golnur-postnikova-1.html,Golnur Postnikova,country of citizenship,Soviet Union,Q5580887,P27,Q15180,0
+http://www.sports-reference.com/olympics/athletes/iv/ivan-ivanov-4.html,Ivan Ivanov,country of citizenship,Bulgaria,Q16560502,P27,Q219,0
+http://www.futhead.com/14/players/8278/youness-mokhtar/,Youness Mokhtar,country of citizenship,Morocco,Q1030545,P27,Q1028,0
+http://electronicintifada.net/v2/article10485.shtml,Isaiah L. Kenen,country of citizenship,Canada,Q579599,P27,Q16,1
+http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHDENM1911198001,Jesper Hansen,ISSF athlete ID,SHDENM1911198001,Q6185826,P2730,SHDENM1911198001,0
+http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHIRQW1201199401,Noor Al-Ameri,ISSF athlete ID,SHIRQW1201199401,Q7049797,P2730,SHIRQW1201199401,0
+http://freemind.sourceforge.net/wiki/index.php/Licensing,FreeMind,copyright license,"GNU General Public License, version 2.0 or later",Q1331559,P275,Q27016752,0
+https://hg.mozilla.org/mozilla-central/file/tip/toolkit/content/license.html,Gecko,copyright license,"GNU Lesser General Public License, version 2.1",Q487834,P275,Q18534390,0
+http://yum.baseurl.org/gitweb?p=yum.git;a=blob;f=COPYING;h=e77696ae8ddfea61c8da89bcfa4494707d67cad2;hb=HEAD,Yellowdog Updater,copyright license,"GNU General Public License, version 2.0",Q625662,P275,Q10513450,0
+https://sourceforge.net/projects/gambas/,Gambas,copyright license,"GNU General Public License, version 2.0",Q648124,P275,Q10513450,0
+https://git.gnome.org/browse/nautilus/tree/COPYING.EXTENSIONS,GNOME Files,copyright license,"GNU General Public License, version 2.0",Q240298,P275,Q10513450,1
+http://backuppc.cvs.sourceforge.net/viewvc/backuppc/BackupPC/LICENSE?revision=1.1&view=markup,BackupPC,copyright license,"GNU General Public License, version 2.0",Q798540,P275,Q10513450,0
+https://addons.mozilla.org/fr/firefox/addon/noscript/?src=userprofile,NoScript,copyright license,"GNU General Public License, version 2.0",Q476604,P275,Q10513450,1
+https://addons.mozilla.org/fr/firefox/addon/noscript/versions/?page=1#version-2.9.0.6,NoScript,software version identifier,2.9.0.6,Q476604,P348,2.9.0.6,0
+https://addons.mozilla.org/fr/firefox/addon/noscript/versions/?page=1#version-2.9.0.9,NoScript,software version identifier,2.9.0.9,Q476604,P348,2.9.0.9,0
+https://collections.artsmia.org/index.php?page=detail&id=2490,Tornado over St. Paul,location,Minneapolis Institute of Art,Q20891231,P276,Q1700481,1
+http://collections.britishart.yale.edu/vufind/Record/1665327,Fishing Smack and Other Vessels in a Strong Breeze,location,Yale Center for British Art,Q20854688,P276,Q6352575,0
+http://www.metmuseum.org/collection/the-collection-online/search/11063,"Saint George's Church, New York",location,Metropolitan Museum of Art,Q19925444,P276,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/437056,"Tommaso di Folco Portinari (1428–1501); Maria Portinari (Maria Maddalena Baroncelli, born 1456)",location,Metropolitan Museum of Art,Q3937669,P276,Q160236,0
+http://www.nationalgallery.org.uk/paintings/marie-blancour-a-bowl-of-flowers,A Bowl of Flowers,location,National Gallery,Q25399358,P276,Q180788,0
+http://www.nga.gov/content/ngaweb/Collection/art-object-page.41593.html,Portrait of Ranuccio Farnese,location,National Gallery of Art,Q12146958,P276,Q214867,0
+https://collections.artsmia.org/index.php?page=detail&id=16629,Little Milliner,location,Minneapolis Institute of Art,Q20891527,P276,Q1700481,0
+http://www.philamuseum.org/collections/permanent/51658.html,Accident in a Well,location,Philadelphia Museum of Art,Q20807956,P276,Q510324,0
+http://www.nationalgallery.org.uk/paintings/paul-cezanne-hillside-in-provence,La Route en Provence,location,National Gallery,Q24939469,P276,Q180788,1
+http://americanart.si.edu/collections/search/artwork/?id=33467,Dead Rooster,location,Smithsonian American Art Museum,Q20528173,P276,Q1192305,0
+http://www.philamuseum.org/collections/permanent/104382.html,"Architectural Study (Door of the Francis I Staircase, Oval Court, Fontainebleau)",location,Philadelphia Museum of Art,Q20808703,P276,Q510324,0
+http://www.getty.edu/art/collection/objects/617/lodovico-carracci-st-sebastian-thrown-into-the-cloaca-maxima-italian-1612/,St. Sebastian Thrown into the Cloaca Maxima,location,Getty Center,Q15992486,P276,Q29247,0
+http://collections.lacma.org/node/2092281,Indian Woman in Special Attire (India en traje de gala),location,Los Angeles County Museum of Art,Q20882069,P276,Q1641836,0
+http://americanart.si.edu/collections/search/artwork/?id=14493,Interior,location,Smithsonian American Art Museum,Q20491044,P276,Q1192305,0
+http://collections.lacma.org/node/250927,Untitled Textile Design,location,Los Angeles County Museum of Art,Q20881869,P276,Q1641836,0
+http://www.nationalgallery.org.uk/paintings/vincent-van-gogh-farms-near-auvers,Farms near Auvers,location,National Gallery,Q3695962,P276,Q180788,0
+http://www.nationalgallery.org.uk/paintings/dosso-dossi-the-adoration-of-the-kings,The Adoration of the Kings,location,National Gallery,Q26693153,P276,Q180788,0
+http://www.guggenheim.org/new-york/collections/collection-online/artwork/3001,Still Life with Gingerpot 2,location,Solomon R. Guggenheim Museum,Q18710646,P276,Q201469,0
+http://www.dulwichpicturegallery.org.uk/explore-the-collection/401-450/george-bartley/,George Bartley,location,Dulwich Picture Gallery,Q23928954,P276,Q1241163,0
+http://americanart.si.edu/collections/search/artwork/?id=26486,Untitled--Plant Study,location,Smithsonian American Art Museum,Q20520492,P276,Q1192305,0
+http://www.metmuseum.org/collection/the-collection-online/search/489995,View of Collioure,location,Metropolitan Museum of Art,Q19917706,P276,Q160236,0
+http://www.philamuseum.org/collections/permanent/102903.html,Ringland Hill,location,Philadelphia Museum of Art,Q20808186,P276,Q510324,0
+http://www.dulwichpicturegallery.org.uk/explore-the-collection/101-150/landscape/,Landscape,location,Dulwich Picture Gallery,Q23929582,P276,Q1241163,0
+http://www.metmuseum.org/collection/the-collection-online/search/489421,Still Life,location,Metropolitan Museum of Art,Q19923414,P276,Q160236,0
+http://www.metmuseum.org/collection/the-collection-online/search/435833,Herodias,location,Metropolitan Museum of Art,Q19913050,P276,Q160236,0
+https://github.com/voxe/voxe-web#environment,Voxe,programmed in,Ruby,Q25366080,P277,Q161053,1
+http://www.unece.org/fileadmin/DAM/trans/conventn/ECE-TRANS-SC1-384e.pdf,European route E40,connects with,Gera,Q327162,P2789,Q3750,1
+http://www.unece.org/fileadmin/DAM/trans/conventn/ECE-TRANS-SC1-384e.pdf,European route E40,connects with,Atyrau,Q327162,P2789,Q486913,1
+http://www.unece.org/fileadmin/DAM/trans/conventn/ECE-TRANS-SC1-384e.pdf,European route E40,connects with,Zhytomyr,Q327162,P2789,Q156713,1
+http://www.geopostcodes.com/Same_Same,Same District,postal code,25601,Q7193222,P281,25601,1
+http://www.entente-ee.com/wp-content/uploads/Standards-Tauben.pdf,Syrian curled Dewlap,EE breed number,0040,Q26702725,P303,0040,1
+http://www.entente-ee.com/wp-content/uploads/Standards-Tauben.pdf,Mulhouse Pigeon,EE breed number,0010,Q26701942,P303,0010,1
+http://man.9front.org/4/tapefs,zip,operating system,9front,Q22673956,P306,Q4646465,0
+http://www.nga.gov/content/ngaweb/Collection/art-object-page.52206.html,Woman and Two Children in a Field,instance of,painting,Q20188875,P31,Q3305213,0
+http://www.metmuseum.org/collection/the-collection-online/search/490043,Saint Eustace,instance of,painting,Q20200721,P31,Q3305213,0
+http://americanart.si.edu/collections/search/artwork/?id=11819,Landscape in Green,instance of,painting,Q20490110,P31,Q3305213,0
+http://www.metmuseum.org/collection/the-collection-online/search/437041,Gathering Wood,instance of,painting,Q19913100,P31,Q3305213,0
+http://www.philamuseum.org/collections/permanent/101826.html,The Adoration of the Christ Child,instance of,painting,Q20807916,P31,Q3305213,0
+http://americanart.si.edu/collections/search/artwork/?id=28340,Aegean II,instance of,painting,Q20526871,P31,Q3305213,0
+https://library.leeds.ac.uk/special-collections-explore/372686,Hours of Antoine de Crèvecœur,instance of,manuscript,Q26208677,P31,Q87167,0
+http://www.nationalgallery.org.uk/paintings/giovanni-dal-ponte-saints-raphael-and-tobias-roundel-above-right-panel,Saints Raphael and Tobias: Roundel above Right Panel,instance of,painting,Q26693198,P31,Q3305213,0
+http://www.cdc.gov/niosh/npg/npgd0558.html,steatite exposure,afflicts,human,Q21175304,P689,Q5,1
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4018861/,4-methyl-2-hexanone,instance of,biomarker,Q24730663,P31,Q864574,1
+http://americanart.si.edu/collections/search/artwork/?id=25639,Monks on the Appian Way,instance of,painting,Q20506307,P31,Q3305213,0
+http://www.philamuseum.org/collections/permanent/103711.html,"Virgin and Child, with Two Angels in an Apse",instance of,painting,Q20808558,P31,Q3305213,0
+http://www.philamuseum.org/collections/permanent/101841.html,Virgin and Child; Man of Sorrows,instance of,painting,Q20807928,P31,Q3305213,0
+http://www.metmuseum.org/collection/the-collection-online/search/10799,View of New York from New Jersey,instance of,painting,Q19923899,P31,Q3305213,0
+http://www.bbc.co.uk/news/36951328,Hillsborough Castle,instance of,archaeological site,Q1275686,P31,Q839954,0
+http://collections.lacma.org/node/173830,"Christ on the Cross with Saints Vincent Ferrer, John the Baptist, Mark and Antoninus",instance of,painting,Q20879048,P31,Q3305213,0
+http://collections.lacma.org/node/206814,Microcosm and Macrocosm,instance of,painting,Q20880491,P31,Q3305213,0
+http://www.britannica.com/EBchecked/topic/178340/Organisation-for-Economic-Co-operation-and-Development-OECD,Convention on the Organisation for Economic Co-operation and Development,instance of,multilateral treaty,Q5166298,P31,Q6934728,0
+http://www.metmuseum.org/collection/the-collection-online/search/10214,The Farm,instance of,painting,Q19924616,P31,Q3305213,0
+http://www.guggenheim.org/new-york/collections/collection-online/artwork/144,b and p,instance of,painting,Q19882105,P31,Q3305213,0
+http://americanart.si.edu/collections/search/artwork/?id=22834,Sea Images,instance of,painting,Q20504826,P31,Q3305213,0
+http://americanart.si.edu/collections/search/artwork/?id=25858,Aster Engelmann,instance of,painting,Q20506527,P31,Q3305213,1
+http://americanart.si.edu/collections/search/artwork/?id=21513,"Woman and Child, Indians, Bolivia",instance of,painting,Q20503223,P31,Q3305213,0
+http://www.philamuseum.org/collections/permanent/282614.html,Head of a Woman,instance of,painting,Q20816728,P31,Q3305213,0
+http://www.guggenheim.org/new-york/collections/collection-online/artwork/3237,February 1956 (menhir),instance of,painting,Q19882876,P31,Q3305213,1
+http://collections.lacma.org/node/219645,Seemingly (#6),instance of,painting,Q20880690,P31,Q3305213,0
+http://www.philamuseum.org/collections/permanent/103518.html,"Virgin and Child, with Saint Elizabeth and the Young Saint John the Baptist",instance of,painting,Q20808343,P31,Q3305213,0
+http://www.metmuseum.org/collection/the-collection-online/search/438158,Springtime,instance of,painting,Q19905085,P31,Q3305213,0
+http://www.brooklynmuseum.org/opencollection/objects/678/St._John_of_God,St. John of God,instance of,painting,Q19858188,P31,Q3305213,0
+http://www.cdc.gov/niosh/npg/npgd0575.html,sulfur dioxide exposure,afflicts,skin,Q21175322,P689,Q1074,1
+http://www.xkcd.com/archive/index.html,Business Plan,instance of,comic strip,Q18614923,P31,Q838795,1
+http://www.philamuseum.org/collections/permanent/73608.html,"From Spaniard and Morisca, Albino",instance of,painting,Q20807922,P31,Q3305213,0
+https://www.archlinux.org/download/,Arch Linux,software version identifier,2016.01.01,Q185576,P348,2016.01.01,1
+https://github.com/composer/composer/releases/tag/1.0.0,Composer,software version identifier,1.0.0,Q15252222,P348,1.0.0,0
+https://github.com/composer/composer/blob/master/CHANGELOG.md#100-alpha10---2015-04-14,Composer,software version identifier,1.0.0-alpha10,Q15252222,P348,1.0.0-alpha10,0
+https://download.gnome.org/sources/evolution/3.18/evolution-3.18.3.news,Evolution,software version identifier,3.18.3,Q336251,P348,3.18.3,0
+https://lists.gnu.org/archive/html/info-gnu/2016-06/msg00010.html,GNU IceCat,software version identifier,38.8.0-gnu2,Q2009630,P348,38.8.0-gnu2,1
+https://www.kde.org/announcements/plasma-5.5.3.php,JuK,software version identifier,KDE 5.5.3,Q1500348,P348,KDE 5.5.3,0
+https://forum.mql4.com/ru/72785,MetaTrader 4,software version identifier,4 build 971,Q1851963,P348,4 build 971,1
+http://download.oldium.net/karel/karel-2.0.5.tar.gz,Karel,software version identifier,2.0.1,Q22666032,P348,2.0.1,1
+https://www.wireshark.org/lists/wireshark-announce/201607/msg00001.html,Wireshark,software version identifier,2.0.5,Q403539,P348,2.0.5,0
+https://www.wireshark.org/lists/wireshark-announce/201604/msg00001.html,Wireshark,software version identifier,1.12.11,Q403539,P348,1.12.11,0
+https://lists.gnu.org/archive/html/info-global/2015-12/msg00000.html,GNU GLOBAL,software version identifier,6.5.2,Q3093284,P348,6.5.2,0
+http://www.crawltrack.net/changelog.php,CrawlTrack,software version identifier,3.3.2,Q3002358,P348,3.3.2,1
+https://github.com/openstreetmap/iD/releases,iD,software version identifier,1.9.7,Q18275868,P348,1.9.7,1
+https://github.com/git/git/releases/tag/v2.9.3,Git,software version identifier,2.9.3,Q186055,P348,2.9.3,0
+https://github.com/v8/v8/blob/5.1.130/ChangeLog,V8,software version identifier,5.1.130,Q574992,P348,5.1.130,0
+https://lists.torproject.org/pipermail/tor-talk/2015-March/037355.html,Tor-ramdisk,software version identifier,20150322,Q7825228,P348,20150322,0
+https://lists.alioth.debian.org/pipermail/freedombox-discuss/2015-December/007111.html,FreedomBox,software version identifier,0.7,Q51627,P348,0.7,0
+https://github.com/loomio/loomio/commit/17b9bd23518bc2e8b12446c2a167c8b6993e6f68,Loomio,software version identifier,0.20.55,Q15975673,P348,0.20.55,0
+https://lists.gnu.org/archive/html/parallel/2015-09/msg00001.html,GNU parallel,software version identifier,20150922,Q3093314,P348,20150922,0
+https://github.com/gammu/wammu/blob/master/ChangeLog,Wammu,software version identifier,0.1,Q7966936,P348,0.1,1
+http://lists.claws-mail.org/pipermail/users/2016-August/017029.html,Claws Mail,software version identifier,3.14.0,Q1099163,P348,3.14.0,0
+https://lists.gnu.org/archive/html/gnumed-announce/2016-08/msg00000.html,GNUmed,software version identifier,1.6.8,Q5514035,P348,1.6.8,0
+http://lists.nongnu.org/archive/html/qemu-devel/2016-09/msg00273.html,QEMU,software version identifier,2.7.0,Q624699,P348,2.7.0,0
+http://www.cdc.gov/niosh/npg/npgd0461.html,n-nitrosodimethylamine exposure,afflicts,liver,Q21175009,P689,Q9368,0
+https://git.kernel.org/cgit/network/connman/connman.git/commit/?id=6af0b24817b8712c755ef24ed0ee4c5e84550657,ConnMan,software version identifier,0.36,Q18215856,P348,0.36,0
+https://git.kernel.org/cgit/network/connman/connman.git/commit/?id=039571c9db317fa8f63c4d1cc6210506c0d9deb5,ConnMan,software version identifier,0.43,Q18215856,P348,0.43,0
+https://git.kernel.org/cgit/network/connman/connman.git/commit/?id=94e55b75eec47c62f46deb7141c658f36c04a0b2,ConnMan,software version identifier,0.37,Q18215856,P348,0.37,0
+https://git.gnome.org/browse/geary/tree/NEWS,Geary,software version identifier,0.8.2,Q20715678,P348,0.8.2,1
+https://mail-archives.apache.org/mod_mbox/maven-announce/201511.mbox/%3C20151118071117.A29D618223%40minotaur.apache.org%3E,Apache Maven,software version identifier,3.3.9,Q139941,P348,3.3.9,0
+https://blogs.windows.com/windowsexperience/2016/09/28/announcing-windows-10-insider-preview-build-14936-for-pc,Windows 10,software version identifier,10.0.14936,Q18168774,P348,10.0.14936,0
+https://directory.fsf.org/wiki/Linux-libre,Linux-libre,software version identifier,4.4.12-gnu,Q665683,P348,4.4.12-gnu,1
+https://directory.fsf.org/wiki/Linux-libre,Linux-libre,software version identifier,4.6.2-gnu,Q665683,P348,4.6.2-gnu,1
+https://directory.fsf.org/wiki/Linux-libre,Linux-libre,software version identifier,4.4.8-gnu,Q665683,P348,4.4.8-gnu,1
+https://spamassassin.apache.org/,SpamAssassin,software version identifier,3.4.1,Q1503674,P348,3.4.1,1
+https://www.debian.org/releases/testing/,Debian,software version identifier,9,Q7593,P348,9,1
+https://lists.freebsd.org/pipermail/freebsd-announce/2016-April/001713.html,FreeBSD,software version identifier,10.3,Q34236,P348,10.3,0
+https://github.com/cherokee/webserver/releases/tag/v1.2.103,Cherokee,software version identifier,1.2.103,Q2373,P348,1.2.103,0
+http://www.jrrio.com/en-hist.html#AutoCad,AutoCAD,software version identifier,20,Q83570,P348,20,0
+https://blog.mathieui.net/poezio-0-9.html,Poezio,software version identifier,0.9.0,Q3393182,P348,0.9.0,0
+https://www.mozilla.org/en-US/firefox/48.0beta/releasenotes/,Firefox,software version identifier,48.0beta,Q698,P348,48.0beta,0
+https://github.com/SMSSecure/SMSSecure/releases/tag/v0.13.2,Silence,software version identifier,0.13.2,Q20742563,P348,0.13.2,0
+https://blog.torproject.org/blog/tor-browser-505-released,Tor Browser,software version identifier,5.0.5,Q15397253,P348,5.0.5,0
+http://phoronix.com/scan.php?page=news_item&px=GNU-Binutils-2.27,GNU Binutils,software version identifier,2.27,Q1144975,P348,2.27,0
+https://www.virtualbox.org/pipermail/vbox-announce/2016-June/000150.html,VirtualBox,software version identifier,5.0.24,Q11393,P348,5.0.24,0
+http://www.xkcd.com/archive/index.html,Detail,part of,xkcd,Q18615177,P361,Q13915,0
+http://www.xkcd.com/archive/index.html,Location Sharing,part of,xkcd,Q20671267,P361,Q13915,1
+http://www.xkcd.com/archive/index.html,API,part of,xkcd,Q20671275,P361,Q13915,1
+http://www.xkcd.com/archive/index.html,Proof,part of,xkcd,Q18615102,P361,Q13915,1
+http://www.xkcd.com/archive/index.html,Ontological Argument,part of,xkcd,Q20671300,P361,Q13915,1
+https://books.google.co.uk/books?id=zdTuQRZxBTIC&pg=PA574,Robert Smith,child,James Smith,Q21165560,P40,Q6146006,1
+http://wbo.llgc.org.uk/en/s1-THOM-JOH-1838.html,John Thomas,child,William Thelwall Thomas,Q3403561,P40,Q20735679,1
+http://www.xkcd.com/archive/index.html,XKCD Phone 3,issue,1549,Q20671345,P433,1549,1
+http://www.xkcd.com/archive/index.html,Dimensions,issue,1524,Q20671320,P433,1524,1
+http://www.metacritic.com/game/xbox-360/fallout-3,Fallout 3,review score,93/100,Q221164,P444,93/100,0
+http://www.metacritic.com/game/playstation-3/fallout-new-vegas,Fallout: New Vegas,review score,82/100,Q753749,P444,82/100,0
+http://www.rollingstone.com/music/features/11-things-you-learn-hanging-out-with-weezer-20140904,Brian Bell,member of,Weezer,Q2463688,P463,Q209956,0
+http://www.gracesguide.co.uk/William_Alexander_Brooks,William Alexander Brooks,member of,Institution of Civil Engineers,Q25160214,P463,Q1665181,0
+http://www.xkcd.com/archive/index.html,Meeting,author,Randall Munroe,Q20671287,P50,Q285048,0
+http://www.xkcd.com/archive/index.html,Quantum Mechanics,author,Randall Munroe,Q18615230,P50,Q285048,1
+http://www.xkcd.com/archive/index.html,Microdrones,author,Randall Munroe,Q20671319,P50,Q285048,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750007.html,exposure to mustard–lewisite mixture,cause of death,shock,Q21505396,P509,Q178061,1
+http://www.theguardian.com/artanddesign/2009/aug/06/tamara-krikorian-obituary,Tamara Krikorian,cause of death,pneumonia,Q19561095,P509,Q12192,0
+https://archive.org/stream/gri_33125004476327#page/n504/mode/1up,A Franciscan Friar,catalog code,457 R,Q21519767,P528,457 R,1
+https://archive.org/stream/expositiondesprimi00expo#page/60/mode/1up,Virgin and Child,catalog code,140,Q20186939,P528,140,1
+https://archive.org/stream/gri_33125009347911#page/n116/mode/1up,Nymph and Shepherd,catalog code,60,Q26704055,P528,60,1
+https://archive.org/stream/expositiondesprimi00expo#page/17/mode/1up,Portrait of a Man,catalog code,38,Q19905059,P528,38,0
+https://archive.org/stream/catalogueraisonn06hofsuoft#page/401/mode/1up,Portrait of an Old Woman,catalog code,870,Q19905326,P528,870,0
+http://www.procyclingstats.com/rider/Antoine_Demoitie,Antoine Demoitié,member of sports team,Bingoal WB Devo Team,Q15792007,P54,Q1267263,1
+http://iditarod.com/race/2016/mushers/1027-Miriam-Osredkar/,Miriam Osredkar,residence,Willow,Q23014129,P551,Q923710,1
+https://www.instagram.com/hallsgardensite/,Q24027563,website account on,Instagram,Q24027563,P553,Q209330,0
+https://vimeo.com/autrecords,Aut Records,website account on,Vimeo,Q23819508,P553,Q156376,0
+http://www.coolantarctica.com/Antarctica%20fact%20file/History/biography/mcleod_thomas.php,Thomas McLeod,date of birth,+1873-04-03T00:00:00Z,Q3990692,P569,+1873-04-03T00:00:00Z,1
+http://www.filmreference.com/film/91/John-Gould-Rubin.html,John Gould Rubin,date of birth,+1951-01-26T00:00:00Z,Q22918906,P569,+1951-01-26T00:00:00Z,0
+http://yba.llgc.org.uk/en/s-OWEN-ELL-1789.html,Ellis Owen,date of birth,+1789-03-31T00:00:00Z,Q18534796,P569,+1789-03-31T00:00:00Z,0
+http://www.cdc.gov/niosh/npg/npgd0032.html,1-methylbutyl acetate exposure,route of administration,inhalation administration,Q21167797,P636,Q10268830,0
+http://www.telegraph.co.uk/news/obituaries/military-obituaries/special-forces-obituaries/9481084/Zvi-Aharoni-and-Yaakov-Meidad.html,Zvi Aharoni,date of birth,+1921-02-06T00:00:00Z,Q88933,P569,+1921-02-06T00:00:00Z,0
+https://assets.documentcloud.org/documents/1532973/complaint-brock-turner.pdf,Brock Turner,date of birth,+1995-08-01T00:00:00Z,Q24452251,P569,+1995-08-01T00:00:00Z,1
+http://www.oregonencyclopedia.org/articles/davies_mary_carolyn_ca_1890_/,Mary Carolyn Davies,date of birth,+1888-00-00T00:00:00Z,Q22666013,P569,+1888-00-00T00:00:00Z,0
+http://www.oregonencyclopedia.org/articles/davies_mary_carolyn_ca_1890_/,Mary Carolyn Davies,date of death,somevalue,Q22666013,P570,somevalue,0
+http://uk.soccerway.com/players/panagiotis-glykos/18871/,Panagiotis Glikos,date of birth,+1986-10-10T00:00:00Z,Q3557375,P569,+1986-10-10T00:00:00Z,0
+"https://viaf.org/viaf/162895185/#Defty,_Andrew,_1970-....",Andrew Defty,date of birth,+1970-00-00T00:00:00Z,Q26216079,P569,+1970-00-00T00:00:00Z,0
+http://sports.yahoo.com/tennis/players/5099,Malek Jaziri,date of birth,+1984-01-20T00:00:00Z,Q440477,P569,+1984-01-20T00:00:00Z,1
+"http://viaf.org/viaf/222435122/#Barnard,_George,_1807-1890",George Barnard,date of birth,+1807-00-00T00:00:00Z,Q25292906,P569,+1807-00-00T00:00:00Z,0
+http://www.nfl.com/player/calvinhill/2516499/careerstats,Calvin Hill,date of birth,+1947-01-02T00:00:00Z,Q1027683,P569,+1947-01-02T00:00:00Z,0
+http://fmg.ac/Projects/MedLands/AQUITAINE.htm#AdelindaMAcfredoICarcassonne,Acfred I of Carcassonne,date of birth,somevalue,Q2604056,P569,somevalue,1
+http://www.theguardian.com/tv-and-radio/2016/jan/17/dan-haggerty,Dan Haggerty,date of birth,+1942-11-19T00:00:00Z,Q113069,P569,+1942-11-19T00:00:00Z,0
+http://www.billgladstone.ca/?p=3730/,Paul Stephen Andrew Lamek,date of birth,+1946-00-00T00:00:00Z,Q18167990,P569,+1946-00-00T00:00:00Z,1
+http://www.judoinside.com/judoka/42412,Anka Pogačnik,date of birth,+1991-12-23T00:00:00Z,Q27037433,P569,+1991-12-23T00:00:00Z,0
+https://new.liveauctioneers.com/item/18118563,Louis Laurent Raze,date of death,+1872-00-00T00:00:00Z,Q26715079,P570,+1872-00-00T00:00:00Z,0
+http://fmg.ac/Projects/MedLands/BURGUNDY%20Kingdom.htm,Stephanie of Burgundy,date of death,novalue,Q2878505,P570,novalue,1
+http://s002.iannounce-cdn.co.uk/static/1454678984/images/72/65/44906572.pdf,Harry Stelzner,date of death,+2016-01-25T00:00:00Z,Q1584762,P570,+2016-01-25T00:00:00Z,0
+http://www.cdc.gov/niosh/npg/npgd0269.html,ethylenediamine exposure,route of administration,inhalation administration,Q21174287,P636,Q10268830,1
+http://www.catholic-hierarchy.org/bishop/bburkee.html,Edmund Burke,date of death,+1820-11-29T00:00:00Z,Q3048076,P570,+1820-11-29T00:00:00Z,0
+http://eprints.lancs.ac.uk/80161/1/MBMJ_Author_Copy.pdf,Lawson Whalley,date of death,+1841-00-00T00:00:00Z,Q26209687,P570,+1841-00-00T00:00:00Z,1
+http://www.washingtonpost.com/wp-dyn/content/article/2007/07/20/AR2007072002242.html,Odile Crick,date of death,+2007-07-05T00:00:00Z,Q3880866,P570,+2007-07-05T00:00:00Z,0
+http://www.huffingtonpost.com/david-hinckley/rip-vaughn-harper-the-qui_b_10910504.html,Vaughn Harper,date of death,+2016-07-09T00:00:00Z,Q23023178,P570,+2016-07-09T00:00:00Z,0
+http://www.independent.co.uk/news/people/obituary-jimmy-allen-1571883.html,Jimmy Allen,date of death,+1995-02-05T00:00:00Z,Q3808401,P570,+1995-02-05T00:00:00Z,0
+http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=82609134,Gertrude Macdonald,date of death,+1952-00-00T00:00:00Z,Q21464386,P570,+1952-00-00T00:00:00Z,0
+https://collections.artsmia.org/index.php?page=detail&id=3282,"Mrs. Froude, née Phyllis Hurrell (d. 1826)",inception,+1762-01-01T00:00:00Z,Q20891293,P571,+1762-01-01T00:00:00Z,1
+http://www.metmuseum.org/collection/the-collection-online/search/439385,View of Monte Sant'Angelo from the Villa Auriemma near Sorrento,inception,+1832-01-01T00:00:00Z,Q19914308,P571,+1832-01-01T00:00:00Z,0
+https://library.leeds.ac.uk/special-collections-explore/380982,Phoenix Dance Theatre,inception,+1981-00-00T00:00:00Z,Q7186828,P571,+1981-00-00T00:00:00Z,0
+http://www.metmuseum.org/collection/the-collection-online/search/10788,High Point: Shandaken Mountains,inception,+1853-01-01T00:00:00Z,Q19924128,P571,+1853-01-01T00:00:00Z,0
+http://www.cdc.gov/niosh/npg/npgd0651.html,exposure to soluble uranium compounds,route of administration,inhalation administration,Q21175406,P636,Q10268830,0
+http://www.profilecanada.com/companydetail.cfm?company=227282_Lombardi_Media_Corporation_Vaughan_ON,Lombardi Media Corporation,inception,+1986-00-00T00:00:00Z,Q25375741,P571,+1986-00-00T00:00:00Z,0
+http://www.metmuseum.org/collection/the-collection-online/search/438623,Classical Landscape with Figures,inception,+1803-01-01T00:00:00Z,Q20167225,P571,+1803-01-01T00:00:00Z,0
+https://groups.google.com/d/msg/uk.media.tv.sky/a6OCZtaOCI8/4EfteIFZvAwJ,Discovery Science,inception,+1998-00-00T00:00:00Z,Q3602222,P571,+1998-00-00T00:00:00Z,1
+http://collections.britishart.yale.edu/vufind/Record/3794722,"Midland Landscape, 1958",inception,+1958-01-01T00:00:00Z,Q23698528,P571,+1958-01-01T00:00:00Z,0
+https://commons.wikimedia.org/wiki/File:Brno-P%C3%ADse%C4%8Dn%C3%ADk2014o4.jpg,Graffiti in Písečník,inception,+2010-00-00T00:00:00Z,Q22678576,P571,+2010-00-00T00:00:00Z,1
+http://www.philamuseum.org/collections/permanent/82634.html,Portrait of Eugéne Berny d'Ouville,inception,+1828-01-01T00:00:00Z,Q20808849,P571,+1828-01-01T00:00:00Z,0
+http://www.ciaaw.org/commission.htm,Commission on Isotopic Abundances and Atomic Weights,inception,+1899-00-00T00:00:00Z,Q15647945,P571,+1899-00-00T00:00:00Z,0
+http://www.laquadrature.net/le-debat-est-ouvert,La Quadrature du Net,inception,+2008-03-26T00:00:00Z,Q604319,P571,+2008-03-26T00:00:00Z,0
+http://www.fundacionbancosantander.com/coleccion/#/obra/88,Exterior View of Buildings,inception,+1720-00-00T00:00:00Z,Q22669604,P571,+1720-00-00T00:00:00Z,1
+https://web.archive.org/web/20110523123243/http://www.germantribes.org/tribes/Lombards/Lombard%20Rulers/kingsline.htm,Arianism,"dissolved, abolished or demolished date",+0689-00-00T00:00:00Z,Q83922,P576,+0689-00-00T00:00:00Z,1
+https://tools.ietf.org/html/rfc6986,Streebog,publication date,+2012-08-07T00:00:00Z,Q16635204,P577,+2012-08-07T00:00:00Z,1
+http://www.boxofficemojo.com/movies/?id=2012.htm,2012,publication date,+2009-11-13T00:00:00Z,Q184605,P577,+2009-11-13T00:00:00Z,1
+http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/RES/34/37&Lang=E,United Nations General Assembly Resolution 34/37,publication date,+1979-11-21T00:00:00Z,Q7888409,P577,+1979-11-21T00:00:00Z,0
+http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/RES/54(I)&Lang=E,United Nations General Assembly Resolution 54,publication date,+1946-11-19T00:00:00Z,Q25991777,P577,+1946-11-19T00:00:00Z,0
+http://www.boxofficemojo.com/movies/?page=intl&id=marvel14b.htm,Captain America: The Winter Soldier,cast member,Alan Dale,Q1765358,P161,Q350194,1
+http://www.boxofficemojo.com/movies/?page=intl&id=marvel14b.htm,Captain America: The Winter Soldier,cast member,Alan Dale,Q1765358,P161,Q350194,1
+http://fmg.ac/Projects/MedLands/FRANKSMaiordomi.htm,Nanthild,relative,Ragnoberta,Q443037,P1038,Q23864231,1
+http://www.boxofficemojo.com/movies/?id=planetoftheapes.htm,Planet of the Apes,publication date,+1968-02-08T00:00:00Z,Q59534,P577,+1968-02-08T00:00:00Z,1
+http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/RES/54/4&Lang=E,Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women,publication date,+1999-10-06T00:00:00Z,Q7099022,P577,+1999-10-06T00:00:00Z,0
+https://www.darkhorse.com/Books/10-768/Aliens-DNA-War-Novel,Aliens: DNA War,publication date,+2006-05-17T00:00:00Z,Q27021869,P577,+2006-05-17T00:00:00Z,0
+http://www.boxofficemojo.com/movies/?id=daytheearthstoodstill08.htm,The Day the Earth Stood Still,publication date,+2008-12-12T00:00:00Z,Q187154,P577,+2008-12-12T00:00:00Z,0
+http://www.cdc.gov/niosh/npg/npgd0515.html,picric acid exposure,afflicts,human eye,Q21175062,P689,Q430024,1
+http://www.boxofficemojo.com/movies/?id=jaws3d.htm,Jaws 3-D,publication date,+1983-07-22T00:00:00Z,Q1199837,P577,+1983-07-22T00:00:00Z,0
+https://support.google.com/answer/1083134?hl=en,Apache Wave,end time,+2012-00-00T00:00:00Z,Q207656,P582,+2012-00-00T00:00:00Z,1
+http://www.cdc.gov/niosh/npg/npgd0459.html,1-nitropropane exposure,route of administration,inhalation administration,Q21175007,P636,Q10268830,0
+http://www.cdc.gov/niosh/npg/npgd0297.html,furfural exposure,route of administration,ingestion,Q21174336,P636,Q1663054,1
+http://www.cdc.gov/niosh/npg/npgd0025.html,4-aminodiphenyl exposure,route of administration,inhalation administration,Q21167758,P636,Q10268830,0
+http://www.cdc.gov/niosh/npg/npgd0413.html,methylene diphenyl diisocyanate exposure,route of administration,inhalation administration,Q21174913,P636,Q10268830,0
+http://www.cdc.gov/niosh/npg/npgd0271.html,"1,2-dichloroethane exposure",route of administration,skin absorption,Q21174291,P636,Q4669896,1
+http://www.cdc.gov/niosh/npg/npgd0290.html,trichlorofluoromethane exposure,route of administration,ingestion,Q21174323,P636,Q1663054,1
+http://www.cdc.gov/niosh/npg/npgd0208.html,diethanolamine exposure,route of administration,ingestion,Q21174180,P636,Q1663054,1
+http://www.cdc.gov/niosh/npg/npgd0192.html,dichlorodifluoromethane exposure,route of administration,eye contact,Q21174157,P636,Q21074571,1
+http://www.cdc.gov/niosh/npg/npgd0371.html,lithium hydride exposure,route of administration,eye contact,Q21174820,P636,Q21074571,1
+http://www.cdc.gov/niosh/npg/npgd0211.html,diethylenetriamine exposure,route of administration,ingestion,Q21174183,P636,Q1663054,1
+http://www.cdc.gov/niosh/npg/npgd0619.html,toluene toxicity,route of administration,ingestion,Q21175374,P636,Q1663054,1
+http://www.cdc.gov/niosh/npg/npgd0417.html,methyl formate exposure,route of administration,inhalation administration,Q21174917,P636,Q10268830,0
+http://www.cdc.gov/niosh/npg/npgd0522.html,potassium cyanide exposure,route of administration,skin absorption,Q21175069,P636,Q4669896,1
+http://www.cdc.gov/niosh/npg/npgd0240.html,diphenylamine exposure,route of administration,inhalation administration,Q21174226,P636,Q10268830,1
+http://www.cdc.gov/niosh/npg/npgd0137.html,chlorpyrifos exposure,route of administration,skin absorption,Q21173575,P636,Q4669896,1
+http://www.cdc.gov/niosh/npg/npgd0394.html,methyl acrylate exposure,route of administration,inhalation administration,Q21174894,P636,Q10268830,0
+http://www.cdc.gov/niosh/npg/npgd0577.html,sulfuric acid poisoning,afflicts,skin,Q18386197,P689,Q1074,1
+http://www.cdc.gov/niosh/npg/npgd0685.html,Pyrethrum exposure,afflicts,central nervous system,Q21175438,P689,Q47273,1
+http://www.cdc.gov/niosh/npg/npgd0491.html,perlite exposure,afflicts,respiratory system,Q21175039,P689,Q7891,0
+http://www.cdc.gov/niosh/npg/npgd0180.html,o-dianisidine exposure,afflicts,kidney,Q21174139,P689,Q9377,1
+http://www.cdc.gov/niosh/npg/npgd0268.html,2-chloroethanol exposure,afflicts,circulatory system,Q21174282,P689,Q21077038,1
+http://www.cdc.gov/niosh/npg/npgd0354.html,isooctyl alcohol exposure,afflicts,human,Q21174784,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0022.html,aluminium exposure,afflicts,skin,Q21167711,P689,Q1074,1
+http://www.cdc.gov/niosh/npg/npgd0559.html,sodium hexafluoroaluminate exposure,afflicts,skeleton,Q21175305,P689,Q7881,1
+http://www.cdc.gov/niosh/npg/npgd0125.html,exposure to polychlorinated biphenyl with 42% chlorine,afflicts,liver,Q21173563,P689,Q9368,1
+http://www.cdc.gov/niosh/npg/npgd0353.html,isobutyronitrile exposure,afflicts,circulatory system,Q21174782,P689,Q21077038,1
+http://www.cdc.gov/niosh/npg/npgd0148.html,cobalt tetracarbonyl hydride exposure,afflicts,respiratory system,Q21174093,P689,Q7891,0
+http://www.cdc.gov/niosh/npg/npgd0166.html,cyclohexanone exposure,afflicts,kidney,Q21174120,P689,Q9377,1
+http://www.cdc.gov/niosh/npg/npgd0176.html,1-decanethiol exposure,afflicts,skin,Q21174133,P689,Q1074,1
+http://www.cdc.gov/niosh/npg/npgd0139.html,chromium(II) oxide exposure,afflicts,human,Q21173577,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0066.html,bromoform exposure,afflicts,liver,Q21173318,P689,Q9368,1
+http://www.cdc.gov/niosh/npg/npgd0320.html,hexamethylene diisocyanate exposure,afflicts,human eye,Q21174732,P689,Q430024,1
+http://www.cdc.gov/niosh/npg/npgd0199.html,"1,3-dichloropropene exposure",afflicts,central nervous system,Q21174168,P689,Q47273,1
+http://www.cdc.gov/niosh/npg/npgd0482.html,pentachloroethane exposure,afflicts,human,Q21175030,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0264.html,ethylbenzene exposure,afflicts,respiratory system,Q21174275,P689,Q7891,0
+http://www.cdc.gov/niosh/npg/npgd0184.html,"1,2-dibromo-3-chloropropane exposure",afflicts,human,Q21174147,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0231.html,"1,2-dinitrobenzene exposure",afflicts,human eye,Q21174214,P689,Q430024,1
+http://www.cdc.gov/niosh/npg/npgd0181.html,diazinon exposure,afflicts,respiratory system,Q21174140,P689,Q7891,0
+http://www.cdc.gov/niosh/npg/npgd0388.html,methoxychlor exposure,afflicts,central nervous system,Q21174888,P689,Q47273,1
+http://www.cdc.gov/niosh/npg/npgd0682.html,exposure to cotton dust,afflicts,human,Q21175435,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0363.html,isopropyl glycidyl ether exposure,afflicts,respiratory system,Q21174794,P689,Q7891,0
+http://www.cdc.gov/niosh/npg/npgd0177.html,demeton exposure,afflicts,central nervous system,Q21174134,P689,Q47273,1
+http://www.cdc.gov/niosh/npg/npgd0177.html,demeton exposure,symptoms and signs,diarrhea,Q21174134,P780,Q40878,1
+http://www.cdc.gov/niosh/npg/npgd0426.html,methyl methacrylate exposure,afflicts,human,Q21174926,P689,Q5,0
+http://www.cdc.gov/niosh/npg/npgd0313.html,1-Heptanethiol exposure,afflicts,human eye,Q21174639,P689,Q430024,1
+http://www.cdc.gov/niosh/npg/npgd0275.html,ethylene oxide exposure,afflicts,reproductive system,Q21174298,P689,Q7895,1
+http://www.cdc.gov/niosh/npg/npgd0275.html,ethylene oxide exposure,symptoms and signs,ataxia,Q21174298,P780,Q213373,1
+http://www.cdc.gov/niosh/npg/npgd0554.html,silicon exposure,afflicts,skin,Q21175300,P689,Q1074,1
+https://www.aada.edu/alumni/notable-alumni#decade:all/orderby:all/display:panel/perpage:All,Don Amendolia,educated at,American Academy of Dramatic Arts,Q5292155,P69,Q389336,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1949&fn=petra&sn=davies,Petra Davies,educated at,Royal Academy of Dramatic Art,Q7178630,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1985&fn=jennifer&sn=calvert,Jennifer Calvert,educated at,Royal Academy of Dramatic Art,Q6178169,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1963&fn=john&sn=forgeham,John Forgeham,educated at,Royal Academy of Dramatic Art,Q6233635,P69,Q523926,0
+http://www.johnkcastle.com/,John K. Castle,educated at,Harvard University,Q16727878,P69,Q13371,0
+http://www.clsp.jhu.edu/events/semantics-of-language-grounding-regina-barzilay-mit-computer-science-artificial-intelligence-lab/,Regina Barzilay,educated at,Columbia University,Q24698362,P69,Q49088,1
+https://www.rada.ac.uk/profiles?aos=acting&yr=1992&fn=jonathan&sn=wrather,Jonathan Wrather,educated at,Royal Academy of Dramatic Art,Q23418938,P69,Q523926,0
+http://www.e-yearbook.com/yearbooks/University_Maryland_Terrapin_Yearbook/1958/Page_362.html,Wayne Lavine Milstead,educated at,University of Maryland,Q21447637,P69,Q503415,0
+https://www.rada.ac.uk/profiles?aos=technicaltheatrearts&yr=1957&fn=patrick&sn=oconnell,Patrick O'Connell,educated at,Royal Academy of Dramatic Art,Q2031935,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1928&fn=kathrine&sn=standing,Kay Hammond,educated at,Royal Academy of Dramatic Art,Q6380198,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1954&fn=john&sn=burgess,John Burgess,educated at,Royal Academy of Dramatic Art,Q20974093,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1926&fn=jill&sn=esmond,Jill Esmond,educated at,Royal Academy of Dramatic Art,Q258393,P69,Q523926,0
+https://www.rada.ac.uk/profiles?aos=acting&yr=1936&fn=john&sn=arnatt,John Arnatt,educated at,Royal Academy of Dramatic Art,Q6219427,P69,Q523926,0
+http://fmg.ac/Projects/MedLands/GASCONY.htm,Odon d’Astarac,P7,William I of Astarac,Q14325654,P7,Q3120251,1
+https://www.rada.ac.uk/profiles?aos=acting&yr=2008&fn=thomas&sn=hughes,Tom Hughes,given name,Thomas,Q644911,P735,Q16428906,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750020.html,arsenic pentoxide exposure,symptoms and signs,eye ulceration,Q21396183,P780,Q21402617,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750026.html,thallium poisoning,symptoms and signs,respiratory failure,Q374832,P780,Q767485,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750026.html,thallium poisoning,possible treatment,hemodialysis,Q374832,P924,Q391744,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750018.html,strychnine poisoning,symptoms and signs,nystagmus,Q7625508,P780,Q220989,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750018.html,strychnine poisoning,symptoms and signs,stiffness,Q7625508,P780,Q569057,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750018.html,strychnine poisoning,symptoms and signs,opisthotonus,Q7625508,P780,Q21841015,0
+http://www.cdc.gov/niosh/npg/npgd0590.html,tetraethyl pyrophosphate exposure,symptoms and signs,convulsion,Q21175338,P780,Q852376,1
+http://www.cdc.gov/niosh/npg/npgd0586.html,sulfotep exposure,symptoms and signs,localized sweating,Q21175334,P780,Q21112341,1
+http://www.cdc.gov/niosh/npg/npgd0614.html,exposure to organic tin compounds,symptoms and signs,cough,Q21175369,P780,Q35805,1
+http://www.cdc.gov/niosh/npg/npgd0675.html,zinc oxide exposure,symptoms and signs,decreased pulmonary function,Q21175430,P780,Q21110117,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750024.html,chlorine exposure,symptoms and signs,pain,Q21173551,P780,Q81938,1
+http://www.cdc.gov/niosh/npg/npgd0572.html,subtilisin exposure,symptoms and signs,wheeze,Q21175319,P780,Q517104,1
+http://www.cdc.gov/niosh/npg/npgd0607.html,tetryl exposure,symptoms and signs,malaise,Q21175355,P780,Q2673323,1
+http://www.cdc.gov/niosh/npg/npgd0580.html,sulfur tetrafluoride exposure,symptoms and signs,frostbite,Q21175328,P780,Q1350326,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750015.html,3-quinuclidinyl benzilate exposure,symptoms and signs,ataxia,Q21515284,P780,Q213373,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750027.html,sodium azide exposure,symptoms and signs,respiratory irritation,Q21175306,P780,Q21112283,0
+http://www.cdc.gov/niosh/npg/npgd0560.html,sodium azide exposure,symptoms and signs,headache,Q21175306,P780,Q86,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750010.html,HN1 exposure,symptoms and signs,airway obstruction,Q21506740,P780,Q4330029,1
+http://www.cdc.gov/niosh/npg/npgd0581.html,sulfuryl fluoride exposure,symptoms and signs,conjunctivitis,Q21175329,P780,Q167844,1
+http://www.cdc.gov/niosh/npg/npgd0102.html,carbon black exposure,symptoms and signs,eye irritation,Q21173361,P780,Q21111972,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750012.html,HN3 exposure,symptoms and signs,eye irritation,Q21514015,P780,Q21111972,0
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750002.html,ricin exposure,symptoms and signs,dehydration,Q21515358,P780,Q194290,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750013.html,ammonia exposure,symptoms and signs,blindness,Q21167772,P780,Q10874,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750038.html,cyanide rash,symptoms and signs,itch,Q22639348,P780,Q199602,1
+http://www.cdc.gov/niosh/npg/npgd0647.html,tungsten carbide exposure,symptoms and signs,cobalt allergy,Q21175402,P780,Q21118349,1
+http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750021.html,mercury poisoning,symptoms and signs,saliva secretion,Q408089,P780,Q21116763,1
+http://www.cdc.gov/niosh/npg/npgd0639.html,mesitylene exposure,symptoms and signs,nasal irritation,Q21175394,P780,Q21118859,1
+https://fedoraproject.org/wiki/Licensing#Good_Licenses_4,SIL Open Font License,approved by,Fedora Project,Q1150837,P790,Q109888,0
+http://www.pastscape.org.uk/events.aspx?a=0&hob_id=376145&criteria=fort&search=all&pnt=y,Pleshey Castle and town enclosure,significant event,archaeological excavation,Q17646397,P793,Q959782,0
+http://www.cyclingnews.com/news/tirreno-adriatico-stage-5-cancelled-due-to-snow/,"2016 Tirreno–Adriatico, Stage 5",significant event,cancellation of the stage,Q23010376,P793,Q23023872,0
+http://data.ordnancesurvey.co.uk/doc/7000000000025498,Neath Port Talbot,GSS code (2011),W06000012,Q748078,P836,W06000012,1
+http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=214077,Izleiina mirifica,Fossilworks taxon ID,214077,Q20731893,P842,214077,0
+http://www.esrb.org/ratings/Synopsis.aspx?Certificate=2290&Title=Discworld+II+Missing+Presumed...!%3f,Discworld II: Missing Presumed...!?,ESRB rating,Teen,Q1228604,P852,Q14864330,0
+http://www.xkcd.com/archive/index.html,Dilution,reference URL,http://www.xkcd.com/765/,Q18614569,P854,http://www.xkcd.com/765/,1
+http://www.xkcd.com/archive/index.html,Gut Fauna,reference URL,http://www.xkcd.com/1471/,Q20671265,P854,http://www.xkcd.com/1471/,1
+http://fie.org/fencers/Mona-SHAITO-22165/biography,Zain Shaito,P9,Mona Shaito,Q1393215,P9,Q1657285,0
+http://www.sothebys.com/en/auctions/ecatalogue/2014/old-master-british-paintings-day-l14037/lot.170.html,Evert Collier,work location,Leiden,Q781137,P937,Q43631,0
+http://www.artsjournal.com/jazzbeyondjazz/2007/07/howard_mandel.html,Howie Mandel,work location,New York City,Q1190974,P937,Q60,1
+http://www.viaf.org/viaf/147923930/,Zalla,National Library of Israel ID (old),001049471,Q4476,P949,001049471,1
+http://www.thestar.com/entertainment/visualarts/2014/12/05/anatomy_of_a_protest_wendy_coburn_and_the_mechanics_of_slutwalk.html,Wendy Coburn,sex or gender,female,Q21000499,P21,Q6581072,0
+http://www.fivb.org/EN/volleyball/competitions/Youth/Women/2011/Teams.asp?Tourn=MJ2011&Team=ALG,Nesrine Merouane,sex or gender,female,Q6997632,P21,Q6581072,0
+http://vocab.getty.edu/page/ulan/500331390,Sarah Clendening,sex or gender,female,Q21289821,P21,Q6581072,0
+http://vocab.getty.edu/page/ulan/500334232,Jefferson Gauntt,sex or gender,male,Q22002868,P21,Q6581097,1
+http://www.arabianbusiness.com/the-world-s-100-most-powerful-arab-women-541034.html?view=profile&itemid=540861,Bayan Mahmoud Al-Zahran,sex or gender,female,Q21014417,P21,Q6581072,0
+http://web.archive.org/web/20130430/http://www.london2012.com/athlete/cobas-yariulvis-1072106/,Yariulvis Cobas,sex or gender,female,Q8049347,P21,Q6581072,0

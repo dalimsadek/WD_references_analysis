@@ -5,7 +5,7 @@ from ollama import Client
 class LLMWrapper:
     def __init__(
         self,
-        model_name: str = "llama3.2",
+        model_name: str = "mistral:latest",
         host: str = "http://localhost:11434",
         verbose: bool = True
     ):
