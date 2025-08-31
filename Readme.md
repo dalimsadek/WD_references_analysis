@@ -24,6 +24,14 @@ Minor adjustments were made to the 2017 codebase (path alignment, file format fi
   It introduces **local LLMs via Ollama** to replace or complement crowdsourced annotations, covering tasks such as relevance, author type, publisher type, and publisher verification.  
   Agreement with human labels is evaluated using metrics like Cohen’s Kappa.
 
+- **llm_agreement_project/**  
+  A notebook analyzing the **July 2025 Wikidata dump**, focusing primarily on external reference properties such as:
+
+- **P248**: *stated in*  
+- **P854**: *reference URL*
+
+You can find the full analysis in this GitHub repository:  
+👉 [gabrielmaia7/wikidata-reference-analysis](https://github.com/gabrielmaia7/wikidata-reference-analysis)
 ---
 
 ## Usage
