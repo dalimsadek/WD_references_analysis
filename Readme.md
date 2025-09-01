@@ -9,26 +9,16 @@ Minor adjustments were made to the 2017 codebase (path alignment, file format fi
 
 # Structure
 
-- **expriments/**
-  - **reference_quality_predictor/** — Reproduction of the 2017 machine learning models  
-  - **llm_agreement_project/** — Extension with LLMs replacing/augmenting crowdsourcing
-
-
-
 - **reference_quality_predictor/**  
-  Contains the reproduction of the 2017 baseline experiments.  
-  Models are run either through the notebook (`Expriments.ipynb`) or the automated script (`run_all_models.py`), with results stored in `results/all_model_results.txt`.
+This folder contains our reproduction of the results of the original 2017 baseline experiments. Models are run either through the notebook [`Experiments.ipynb`](reference_quality_predictor/Expriments.ipynb) or the automated script [`run_all_models.py`](reference_quality_predictor/run_all_models.py), with results stored in `results/all_model_results.txt`.
 
 - **llm_agreement_project/**  
-  A new pipeline built on top of the baseline.  
-  It introduces **local LLMs via Ollama** to replace or complement crowdsourced annotations, covering tasks such as relevance, author type, publisher type, and publisher verification.  
-  Agreement with human labels is evaluated using metrics like Cohen’s Kappa.
+This [folder](llm_agreement_project) presents a new pipeline built on top of the reference quality predictor where the goal is to replace the crowd by a LLM. It uses **local LLMs via a Ollama server** to replace or complement crowdsourced annotations, covering tasks such as relevance, author type, publisher type, and publisher verification. Agreement with human labels is evaluated using metrics like Cohen’s Kappa.
 
-- **llm_agreement_project/**  
-  A notebook analyzing the **July 2025 Wikidata dump**, focusing primarily on external reference properties such as:
-
-- **P248**: *stated in*  
-- **P854**: *reference URL*
+- **Wikidata_analysis/**  
+This [notebook](`Wikidata_analysis_v3.ipynb`) analyze the **July 2025 Wikidata dump**, focusing primarily on external reference properties such as:
+   - **P248**: *stated in*  
+   - **P854**: *reference URL*
 
 You can find the full analysis in this GitHub repository:  
 👉 [gabrielmaia7/wikidata-reference-analysis](https://github.com/gabrielmaia7/wikidata-reference-analysis)
